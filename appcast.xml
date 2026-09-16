@@ -6,6 +6,21 @@
         <description>VB工具箱版本更新列表</description>
         <language>zh-cn</language>
         <item>
+            <title>0.3.182</title>
+            <pubDate>Wed, 16 Sep 2026 12:10:00 +0800</pubDate>
+            <sparkle:version>187</sparkle:version>
+            <sparkle:shortVersionString>0.3.182</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>0.3.182</h3>
+                <ul>
+                    <li>「已连接的盘」的电脑栏默认停在「全部」，切换上面的分类后也回到「全部」</li>
+                    <li>升级不会关闭任何共享</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://cdn.jsdelivr.net/gh/Vangu9981/vb-dist@v0.3.182/VBToolbox-0.3.182-universal.dmg" sparkle:edSignature="lJhxRoIV//Q5bqbLdOtSdVApqjmxhWQNkkBJgMMY0ukZJw7Zz2CKFURUJ85gG3dN3T/XiixK3R0EdCrkSariBw==" length="13674493" type="application/octet-stream" />
+        </item>
+        <item>
             <title>0.3.181</title>
             <pubDate>Wed, 16 Sep 2026 11:50:00 +0800</pubDate>
             <sparkle:version>186</sparkle:version>
