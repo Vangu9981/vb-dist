@@ -6,6 +6,21 @@
         <description>VB工具箱版本更新列表</description>
         <language>zh-cn</language>
         <item>
+            <title>0.3.190</title>
+            <pubDate>Wed, 16 Sep 2026 18:35:00 +0800</pubDate>
+            <sparkle:version>195</sparkle:version>
+            <sparkle:shortVersionString>0.3.190</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>0.3.190</h3>
+                <ul>
+                    <li>重要修复：被别人连接时 App 可能意外退出（自 0.3.185 起存在，建议尽快升级）</li>
+                    <li>传输日志不再出现系统临时文件造成的假记录</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://cdn.jsdelivr.net/gh/Vangu9981/vb-dist@v0.3.190/VBToolbox-0.3.190-universal.dmg" sparkle:edSignature="2j/lnfraQe3VgE9AH3DdSGZqnMaN4owoEfoPINVKg5hwATsYRGIjoLxx0Y9uUkMaAVC1jmx4DrwGJaOijNwoBg==" length="14096229" type="application/octet-stream" />
+        </item>
+        <item>
             <title>0.3.189</title>
             <pubDate>Wed, 16 Sep 2026 17:55:00 +0800</pubDate>
             <sparkle:version>194</sparkle:version>
