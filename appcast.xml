@@ -6,6 +6,22 @@
         <description>VB工具箱版本更新列表</description>
         <language>zh-cn</language>
         <item>
+            <title>0.3.178</title>
+            <pubDate>Wed, 16 Sep 2026 10:15:00 +0800</pubDate>
+            <sparkle:version>183</sparkle:version>
+            <sparkle:shortVersionString>0.3.178</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>0.3.178</h3>
+                <ul>
+                    <li>共享配置都正常但对方仍打不开时，「我的共享」给出「重启文件共享服务」一键修复</li>
+                    <li>侧边栏「检查更新」改名「升级与下载」，通用设置里也能直达</li>
+                    <li>升级不会关闭任何共享</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://cdn.jsdelivr.net/gh/Vangu9981/vb-dist@v0.3.178/VBToolbox-0.3.178-universal.dmg" sparkle:edSignature="jcTH/szgUMEqtjiOqlNK+8ZBokoJzAVG+GWRmotGEYSekuBj7bfRNq1vBEBQMoYuYuZhZkSqhQFSxXGfnfWuCA==" length="13226210" type="application/octet-stream" />
+        </item>
+        <item>
             <title>0.3.177</title>
             <pubDate>Wed, 16 Sep 2026 09:45:00 +0800</pubDate>
             <sparkle:version>182</sparkle:version>
