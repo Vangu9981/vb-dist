@@ -1,0 +1,933 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>VB工具箱 更新</title>
+        <link>https://github.com/Vangu9981/C01-backup-tool-releases/releases/latest/download/appcast.xml</link>
+        <description>VB工具箱版本更新列表</description>
+        <language>zh-cn</language>
+        <item>
+            <title>0.3.176</title>
+            <pubDate>Wed, 16 Sep 2026 09:20:00 +0800</pubDate>
+            <sparkle:version>181</sparkle:version>
+            <sparkle:shortVersionString>0.3.176</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>0.3.176</h3>
+                <ul>
+                    <li>修复：升级后刚打开 App 就点「公开」被误报「拒绝公开」，现在自动重试</li>
+                    <li>修复：后台服务重启瞬间不再误撤已开好的系统共享点</li>
+                    <li>升级不会关闭任何共享</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://cdn.jsdelivr.net/gh/Vangu9981/vb-dist@v0.3.176/VBToolbox-0.3.176-universal.dmg" sparkle:edSignature="vXIIMtp0qaYljJm72l8Q+m8KMMXl85vvuEp4ZdcdOX7i+K1IKsgbPnCaMzEMzZGSCnT1aMUuaDfixjt3iq6vAA==" length="12935994" type="application/octet-stream" />
+        </item>
+        <item>
+            <title>0.3.175</title>
+            <pubDate>Wed, 16 Sep 2026 07:15:00 +0800</pubDate>
+            <sparkle:version>180</sparkle:version>
+            <sparkle:shortVersionString>0.3.175</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>0.3.175</h3>
+                <ul>
+                    <li>大盘点「公开/开启」不再转圈几分钟：开启秒回，整盘访客权限改为后台补齐并显示进度</li>
+                    <li>修复大盘公开被误判为「忽略所有者」而撤回共享、按钮失灵</li>
+                    <li>升级不会关闭任何共享</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://cdn.jsdelivr.net/gh/Vangu9981/vb-dist@v0.3.175/VBToolbox-0.3.175-universal.dmg" sparkle:edSignature="r+//TCGINWkbl1pKNOU9jwS1sqs9wR4heJxfTU4/j3WDJcAOI0xMcBel7ARIp7i3S1cDPPk5DzQIWsYyLFkFAg==" length="12885073" type="application/octet-stream" />
+        </item>
+        <item>
+            <title>0.3.174</title>
+            <pubDate>Wed, 16 Sep 2026 06:05:00 +0800</pubDate>
+            <sparkle:version>179</sparkle:version>
+            <sparkle:shortVersionString>0.3.174</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>0.3.174</h3>
+                <ul>
+                    <li>供方「开启/关闭/公开/认证」每次点击记录结果与耗时（含守护进程分步）；转圈超过 5 秒界面说明原因</li>
+                    <li>稳定模式传输记录不再刷隐藏附属文件；上传中途断线自动清理临时文件</li>
+                    <li>升级不会关闭任何共享</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://cdn.jsdelivr.net/gh/Vangu9981/vb-dist@v0.3.174/VBToolbox-0.3.174-universal.dmg" sparkle:edSignature="RKk+JXIrm02qNYqHbKbvjw3yACVEaMs6/YIVqHteVOPo8Isw3V1uAfKXnhLhMiX09pglZUAwQlQpK18N8T5nDQ==" length="12684236" type="application/octet-stream" />
+        </item>
+        <item>
+            <title>0.3.173</title>
+            <pubDate>Wed, 16 Sep 2026 05:55:00 +0800</pubDate>
+            <sparkle:version>178</sparkle:version>
+            <sparkle:shortVersionString>0.3.173</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>0.3.173</h3>
+                <ul>
+                    <li>供方「开启/关闭/公开/认证」每次点击记录结果与耗时；转圈超过 5 秒界面说明原因</li>
+                    <li>稳定模式传输记录不再刷隐藏附属文件；上传中途断线自动清理临时文件</li>
+                    <li>升级不会关闭任何共享</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://cdn.jsdelivr.net/gh/Vangu9981/vb-dist@v0.3.173/VBToolbox-0.3.173-universal.dmg" sparkle:edSignature="/8HCZHIfYmfxleIMAocyDCvCN+CkqHtYylL+fRITNQZLxJCnoXeQrKP1gtML1nKzxb/eWlZDuV5sbajCjlw7Aw==" length="12695044" type="application/octet-stream" />
+        </item>
+        <item>
+            <title>0.3.172</title>
+            <pubDate>Wed, 16 Sep 2026 04:40:00 +0800</pubDate>
+            <sparkle:version>177</sparkle:version>
+            <sparkle:shortVersionString>0.3.172</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>0.3.172</h3>
+                <ul>
+                    <li>修复：访达往稳定模式共享盘复制文件报 -36、落下空文件（访达用分块上传，服务端现已支持）</li>
+                    <li>打开共享盘后自动读写探测，「已连接的盘」显示读写状态，新增「读写探测」按钮</li>
+                    <li>升级不会关闭任何共享</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://cdn.jsdelivr.net/gh/Vangu9981/vb-dist@v0.3.172/VBToolbox-0.3.172-universal.dmg" sparkle:edSignature="sZTz+fZXll97ZI2+qLnT9sLJv6RvJXBlHrbVxfMrTGkRIvGrNd0y2+HogVKER399sSx4fCPlUscxbsacVuxCCA==" length="12642904" type="application/octet-stream" />
+        </item>
+        <item>
+            <title>0.3.171</title>
+            <pubDate>Wed, 16 Sep 2026 03:10:00 +0800</pubDate>
+            <sparkle:version>176</sparkle:version>
+            <sparkle:shortVersionString>0.3.171</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>0.3.171</h3>
+                <ul>
+                    <li>修复 0.3.170 稳定模式端口没写进广播的问题；真机验证稳定模式 1GB/s、复制一致</li>
+                    <li>升级不会关闭任何共享</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://cdn.jsdelivr.net/gh/Vangu9981/vb-dist@v0.3.171/VBToolbox-0.3.171-universal.dmg" sparkle:edSignature="2uszGHIW4QcJhTF4iU5qJ/0vsM7WGDPD2wSDF3+GQmN7q0JpOmkKpO8fy/RrfEaD5AdTr4bQZBg2/XaFFZBSDA==" length="12497300" type="application/octet-stream" />
+        </item>
+        <item>
+            <title>0.3.170</title>
+            <pubDate>Wed, 16 Sep 2026 02:30:00 +0800</pubDate>
+            <sparkle:version>175</sparkle:version>
+            <sparkle:shortVersionString>0.3.170</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>0.3.170</h3>
+                <ul>
+                    <li>稳定模式传输层重写：速度从约 1MB/s 提升到数百 MB/s，复制出错文件的问题随之消除</li>
+                    <li>升级不会关闭任何共享</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://cdn.jsdelivr.net/gh/Vangu9981/vb-dist@v0.3.170/VBToolbox-0.3.170-universal.dmg" sparkle:edSignature="j6bwLp/1MIs6Jg/0D1JlqsFggnIm6I1Pb5f4KSwmYvFMMq5b9dXD7Rumv2f1gXwxsPqIXiELkvwr3AOwEWsYDg==" length="12506605" type="application/octet-stream" />
+        </item>
+        <item>
+            <title>0.3.169</title>
+            <pubDate>Wed, 16 Sep 2026 01:45:00 +0800</pubDate>
+            <sparkle:version>174</sparkle:version>
+            <sparkle:shortVersionString>0.3.169</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>0.3.169</h3>
+                <ul>
+                    <li>自动升级：App 在后台时立即安装，不再等待</li>
+                    <li>升级不会关闭任何共享</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://cdn.jsdelivr.net/gh/Vangu9981/vb-dist@v0.3.169/VBToolbox-0.3.169-universal.dmg" sparkle:edSignature="nV7Agk3s9spdCrg37TeO8FQ1NjcOKbbjrRoSHyAvI6n6WxbrizxhttbLHCZX0pGO898vid2sN+89zEuLTpURBQ==" length="12483970" type="application/octet-stream" />
+        </item>
+        <item>
+            <title>0.3.168</title>
+            <pubDate>Tue, 15 Sep 2026 22:30:00 +0800</pubDate>
+            <sparkle:version>173</sparkle:version>
+            <sparkle:shortVersionString>0.3.168</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>0.3.168</h3>
+                <ul>
+                    <li>内置一个诊断用的实验传输服务，用于定位稳定模式传输慢的原因（不影响使用）</li>
+                    <li>升级不会关闭任何共享</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://cdn.jsdelivr.net/gh/Vangu9981/vb-dist@v0.3.168/VBToolbox-0.3.168-universal.dmg" sparkle:edSignature="d1JdqD97hS2tnBt76FjEajEeu4PbNRuVsmiwuQz3vIV2OrvpR6kclgQulpC7q/okIGQ8B5VMsjx6BKlQUbmzBQ==" length="12483098" type="application/octet-stream" />
+        </item>
+        <item>
+            <title>0.3.167</title>
+            <pubDate>Tue, 15 Sep 2026 21:40:00 +0800</pubDate>
+            <sparkle:version>172</sparkle:version>
+            <sparkle:shortVersionString>0.3.167</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>0.3.167</h3>
+                <ul>
+                    <li>新增「复制校验」页：选源/目标文件夹一键比对每个文件大小，缺失/不符自动记录</li>
+                    <li>备份复制完成后核对目标大小，不一致的文件绝不落盘</li>
+                    <li>升级不会关闭任何共享</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://cdn.jsdelivr.net/gh/Vangu9981/vb-dist@v0.3.167/VBToolbox-0.3.167-universal.dmg" sparkle:edSignature="XQyoLJJ7WEJB6JEe5Nv2Dw8yJOGc5fDWsd7rePy5OXz0D9LqJ7bQmRReEu6vIJZjE1RMRrZqUNWz/4HIMkhfAA==" length="12341391" type="application/octet-stream" />
+        </item>
+        <item>
+            <title>0.3.166</title>
+            <pubDate>Tue, 15 Sep 2026 20:55:00 +0800</pubDate>
+            <sparkle:version>171</sparkle:version>
+            <sparkle:shortVersionString>0.3.166</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>0.3.166</h3>
+                <ul>
+                    <li>打开公开盘改为高速（系统文件共享）优先、稳定模式只做兜底，保证复制数据可靠</li>
+                    <li>升级不会关闭任何共享</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://cdn.jsdelivr.net/gh/Vangu9981/vb-dist@v0.3.166/VBToolbox-0.3.166-universal.dmg" sparkle:edSignature="0hJ9cP9OO8fyy0ToiMLpuE3xYvqMYt9zYRTFOU1j0/JXy8iwkq5sVQg77Ag9tK+DGDXnih/tpT3NUwMikp35CQ==" length="12216884" type="application/octet-stream" />
+        </item>
+        <item>
+            <title>0.3.165</title>
+            <pubDate>Tue, 15 Sep 2026 20:20:00 +0800</pubDate>
+            <sparkle:version>170</sparkle:version>
+            <sparkle:shortVersionString>0.3.165</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>0.3.165</h3>
+                <ul>
+                    <li>修复 App 在后台时被系统降速，导致稳定模式传输只有约 1MB/s、复制出错文件</li>
+                    <li>升级不会关闭任何共享</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://cdn.jsdelivr.net/gh/Vangu9981/vb-dist@v0.3.165/VBToolbox-0.3.165-universal.dmg" sparkle:edSignature="s2Dgspqw+k/PE+JS7ijRS/EPD90zXLX+HnAdEwjTEreLtt+5p/V8bcMeDH1zzebQIaywxFO9jv5/V6HUSC9xAg==" length="12214527" type="application/octet-stream" />
+        </item>
+        <item>
+            <title>0.3.164</title>
+            <pubDate>Tue, 15 Sep 2026 19:40:00 +0800</pubDate>
+            <sparkle:version>169</sparkle:version>
+            <sparkle:shortVersionString>0.3.164</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>0.3.164</h3>
+                <ul>
+                    <li>自动升级更及时：App 在后台时空闲 10 秒即安装重启</li>
+                    <li>升级不会关闭任何共享</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://cdn.jsdelivr.net/gh/Vangu9981/vb-dist@v0.3.164/VBToolbox-0.3.164-universal.dmg" sparkle:edSignature="5pZY8r36oKrGXp7Qtgr1hd95fr2ok/k3g4hgQm5OR0v9EOa25kFs+erZTE9N1j5vk9ikcib8zHfKwpaWnn/eAg==" length="12210362" type="application/octet-stream" />
+        </item>
+        <item>
+            <title>0.3.163</title>
+            <pubDate>Tue, 15 Sep 2026 18:30:00 +0800</pubDate>
+            <sparkle:version>168</sparkle:version>
+            <sparkle:shortVersionString>0.3.163</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>0.3.163</h3>
+                <ul>
+                    <li>修复稳定模式传输极慢导致复制出空文件/错文件的问题（服务端发送方式重写）</li>
+                    <li>升级不会关闭任何共享</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://cdn.jsdelivr.net/gh/Vangu9981/vb-dist@v0.3.163/VBToolbox-0.3.163-universal.dmg" sparkle:edSignature="NwW32zCTUMPSqKltR2uq2liaBv3gCtO3hSStfJW30w2xikEdcrKNwfApAUUGmO/janiUTseSuUq827lX8zMvDw==" length="12212351" type="application/octet-stream" />
+        </item>
+        <item>
+            <title>0.3.162</title>
+            <pubDate>Tue, 15 Sep 2026 17:50:00 +0800</pubDate>
+            <sparkle:version>167</sparkle:version>
+            <sparkle:shortVersionString>0.3.162</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>0.3.162</h3>
+                <ul>
+                    <li>窗口变窄时内容自动换行、边距保留（按钮不再被裁掉），侧边栏矮窗口可滚动</li>
+                    <li>升级不会关闭任何共享</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://cdn.jsdelivr.net/gh/Vangu9981/vb-dist@v0.3.162/VBToolbox-0.3.162-universal.dmg" sparkle:edSignature="ts3QWOpWSmsF1UIvUoOt2h/iW+FqnxyL5ycL5nbfNaUrtw5S7+aB9MEyJZOtN0jyfifi6GiXigEEw+ENTSbnCg==" length="12156324" type="application/octet-stream" />
+        </item>
+        <item>
+            <title>0.3.161</title>
+            <pubDate>Tue, 15 Sep 2026 14:50:00 +0800</pubDate>
+            <sparkle:version>166</sparkle:version>
+            <sparkle:shortVersionString>0.3.161</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>0.3.161</h3>
+                <ul>
+                    <li>窗口有最小尺寸保护，按钮不会再被挤成竖排、文字不会一字一行</li>
+                    <li>升级不会关闭任何共享</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://cdn.jsdelivr.net/gh/Vangu9981/vb-dist@v0.3.161/VBToolbox-0.3.161-universal.dmg" sparkle:edSignature="i8lZbTtZzlAToDriF3HRudGlFZ4qD8R/ek76gkj1LIQeQQsugtZMOAih+ah6P04IfNqa9Hp3NS8a5Nzq4EPSBw==" length="12129086" type="application/octet-stream" />
+        </item>
+        <item>
+            <title>0.3.160</title>
+            <pubDate>Tue, 15 Sep 2026 11:55:00 +0800</pubDate>
+            <sparkle:version>165</sparkle:version>
+            <sparkle:shortVersionString>0.3.160</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>0.3.160</h3>
+                <ul>
+                    <li>修复供方关掉再公开后，使用方因端口变化连接被拒的问题（端口固定 + 打开前取最新端口）</li>
+                    <li>升级不会关闭任何共享</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://cdn.jsdelivr.net/gh/Vangu9981/vb-dist@v0.3.160/VBToolbox-0.3.160-universal.dmg" sparkle:edSignature="htBuEpxuwUz2ky9r7oeX7MIY+nYrfaj5qVIk6qtSkj+x2tuWK2Apj18LOI9IHFZS25cP905e2o7DVBe/laW0Cg==" length="12111008" type="application/octet-stream" />
+        </item>
+        <item>
+            <title>0.3.159</title>
+            <pubDate>Tue, 15 Sep 2026 11:25:00 +0800</pubDate>
+            <sparkle:version>164</sparkle:version>
+            <sparkle:shortVersionString>0.3.159</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>0.3.159</h3>
+                <ul>
+                    <li>供方把共享关掉再公开后，使用方自动刷新并自动重新挂载，不用手动再连</li>
+                    <li>升级不会关闭任何共享</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://cdn.jsdelivr.net/gh/Vangu9981/vb-dist@v0.3.159/VBToolbox-0.3.159-universal.dmg" sparkle:edSignature="MZo0BOXBBpZbc04+9c8tAgKUFplSwBCJ1LOZECDbr1hDzNTCDkrtH4w1KQGKsRwKwSaw0+E02XvC9R1pbS1PDQ==" length="12091059" type="application/octet-stream" />
+        </item>
+        <item>
+            <title>0.3.158</title>
+            <pubDate>Tue, 15 Sep 2026 11:05:00 +0800</pubDate>
+            <sparkle:version>163</sparkle:version>
+            <sparkle:shortVersionString>0.3.158</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>0.3.158</h3>
+                <ul>
+                    <li>一键按钮（打开全部/连接全部/全部断开/全部删除等）成功率统计，随「提交发送」一起提交</li>
+                    <li>「已连接的盘」左栏新增「全部」，一页看所有电脑的所有共享盘</li>
+                    <li>升级不会关闭任何共享</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://cdn.jsdelivr.net/gh/Vangu9981/vb-dist@v0.3.158/VBToolbox-0.3.158-universal.dmg" sparkle:edSignature="HrLjFrV3P/kTBfSgQviWXsY36Y4ql1KCB5kvloCSEiyl4zyrfM6K2P7IZ7PbAYMmIHdCUrFvPu1nq4k+OmyLBA==" length="12072437" type="application/octet-stream" />
+        </item>
+        <item>
+            <title>0.3.157</title>
+            <pubDate>Tue, 15 Sep 2026 10:50:00 +0800</pubDate>
+            <sparkle:version>162</sparkle:version>
+            <sparkle:shortVersionString>0.3.157</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>0.3.157</h3>
+                <ul>
+                    <li>「已连接的盘」新增「打开「选中电脑」共享盘」「打开全部共享盘」一键批量打开</li>
+                    <li>挂载成功后访达窗口偶尔不弹出的问题加了兜底</li>
+                    <li>升级不会关闭任何共享</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://cdn.jsdelivr.net/gh/Vangu9981/vb-dist@v0.3.157/VBToolbox-0.3.157-universal.dmg" sparkle:edSignature="18fJe80yoboYKt8lWZ8rNfVEZONyz3NR/uc14OI60zEHwygP+Qd8sjRnDYKwU/EDzeZL63N7UvNBFvkyOaMVAw==" length="11884235" type="application/octet-stream" />
+        </item>
+        <item>
+            <title>0.3.156</title>
+            <pubDate>Tue, 15 Sep 2026 10:45:00 +0800</pubDate>
+            <sparkle:version>161</sparkle:version>
+            <sparkle:shortVersionString>0.3.156</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>0.3.156</h3>
+                <ul>
+                    <li>自动升级的安装包改从全球加速线路下载，解决中国大陆升级反复失败</li>
+                    <li>「删除/全部删除」遇到"正在被使用"的盘会自动强制推出，不再残留</li>
+                    <li>升级不会关闭任何共享</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://cdn.jsdelivr.net/gh/Vangu9981/vb-dist@v0.3.156/VBToolbox-0.3.156-universal.dmg" sparkle:edSignature="rbbXaVHD5LvZYl0E7J1j8vtq+hbRVYTQAi4XTUdDusXGTS1r1tTEdqVRiKu1ffR1jQ8ywl7ONs7jBmf1e6IYDA==" length="11875775" type="application/octet-stream" />
+        </item>
+        <item>
+            <title>0.3.155</title>
+            <pubDate>Tue, 15 Sep 2026 09:55:00 +0800</pubDate>
+            <sparkle:version>160</sparkle:version>
+            <sparkle:shortVersionString>0.3.155</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>0.3.155</h3>
+                <ul>
+                    <li>「提交发送」旁新增留言栏，留言随日志一起发给开发</li>
+                    <li>升级不会关闭任何共享</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://github.com/Vangu9981/C01-backup-tool-releases/releases/download/v0.3.155/VBToolbox-0.3.155-universal.dmg" sparkle:edSignature="qHaJBaXI/rsDqYyLu8AXqgAHefkx7yVXEtLqqyG2Eb8x3lcyCOBrLTuJ+fxCbolklFlDmIfXQIN4OitCBrgRCA==" length="11841112" type="application/octet-stream" />
+        </item>
+        <item>
+            <title>0.3.154</title>
+            <pubDate>Tue, 15 Sep 2026 09:40:00 +0800</pubDate>
+            <sparkle:version>159</sparkle:version>
+            <sparkle:shortVersionString>0.3.154</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>0.3.154</h3>
+                <ul>
+                    <li>「提交给小VB」改名「提交发送」；收集端总记录新增本日/本周/本月/全年统计与每个提交人的条数</li>
+                    <li>「使用说明」补充一键连接、稳定/高速标签、提交发送等新功能说明</li>
+                    <li>升级不会关闭任何共享</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://github.com/Vangu9981/C01-backup-tool-releases/releases/download/v0.3.154/VBToolbox-0.3.154-universal.dmg" sparkle:edSignature="T4WJnMvERD9Ov3IXRlGIMiIN+raCcEJaCoZyys/77FOlzsVFbWgO5Z5rvhYXJ5rkNASmVJtnlvPSKQTrf/TpBA==" length="11860987" type="application/octet-stream" />
+        </item>
+        <item>
+            <title>0.3.153</title>
+            <pubDate>Tue, 15 Sep 2026 09:30:00 +0800</pubDate>
+            <sparkle:version>158</sparkle:version>
+            <sparkle:shortVersionString>0.3.153</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>0.3.153</h3>
+                <ul>
+                    <li>「提交给小VB」不在局域网内也能用：自动改走互联网提交，网络不通会提示改用导出文件</li>
+                    <li>升级不会关闭任何共享</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://github.com/Vangu9981/C01-backup-tool-releases/releases/download/v0.3.153/VBToolbox-0.3.153-universal.dmg" sparkle:edSignature="+kypHBeOOiCfX0PQgw3xjEQZe/fthAnnxGgi5kftvDB3ijQk5zdh2Q+IaA/7j7yyyg3KDK7XgbzQ2h7P+oL/Dw==" length="11721851" type="application/octet-stream" />
+        </item>
+        <item>
+            <title>0.3.152</title>
+            <pubDate>Tue, 15 Sep 2026 06:35:00 +0800</pubDate>
+            <sparkle:version>157</sparkle:version>
+            <sparkle:shortVersionString>0.3.152</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>0.3.152</h3>
+                <ul>
+                    <li>「报错问题收集日志」新增「提交给小VB」按钮：一键把日志发到总记录，不用再导出搬运</li>
+                    <li>「发现与连接」一键连接按钮改放表格上方，新增「连接选中电脑的共享盘」</li>
+                    <li>升级不会关闭任何共享</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://github.com/Vangu9981/C01-backup-tool-releases/releases/download/v0.3.152/VBToolbox-0.3.152-universal.dmg" sparkle:edSignature="S2US2LhB+B6XvV953YyViO/XzYx/j3kjWT3Tn6iy/2mR5ylDWdxPfWDCiE1HEKbblaFfVNqBVGYxn0+F9y4VBQ==" length="11659246" type="application/octet-stream" />
+        </item>
+        <item>
+            <title>0.3.151</title>
+            <pubDate>Tue, 15 Sep 2026 06:10:00 +0800</pubDate>
+            <sparkle:version>156</sparkle:version>
+            <sparkle:shortVersionString>0.3.151</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>0.3.151</h3>
+                <ul>
+                    <li>「发现与连接」新增「连接全部共享盘」一键按钮，筛选条移到表格上方</li>
+                    <li>自动更新改为静默下载、空闲时自动安装重启，以后升级不用再点</li>
+                    <li>打开失败时如果供方还是旧版本没有稳定模式，会明确提示</li>
+                    <li>升级不会关闭任何共享</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://github.com/Vangu9981/C01-backup-tool-releases/releases/download/v0.3.151/VBToolbox-0.3.151-universal.dmg" sparkle:edSignature="NE68HToAvfY8rVqL6HsKFe+K8hoQ+4m64wWMssPzN5j4s72cGW9g8DQcyolimm4NspoKQ/Xclq/o1jC/KRS9DQ==" length="11506237" type="application/octet-stream" />
+        </item>
+        <item>
+            <title>0.3.150</title>
+            <pubDate>Tue, 15 Sep 2026 05:50:00 +0800</pubDate>
+            <sparkle:version>155</sparkle:version>
+            <sparkle:shortVersionString>0.3.150</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>0.3.150</h3>
+                <ul>
+                    <li>「已连接的盘」分类按钮「高速连接」「稳定连接」「异常」改用与行标签一致的绿、蓝、红色</li>
+                    <li>升级不会关闭任何共享</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://github.com/Vangu9981/C01-backup-tool-releases/releases/download/v0.3.150/VBToolbox-0.3.150-universal.dmg" sparkle:edSignature="yY+QT/3tjhhk7Ubiz7+XS7JYAoqD3cg4A0WB6GoB8Vg2uBJJvnYVJ8mGoFZOxluKVtewGXWFXexmPA+77hd0DA==" length="11451767" type="application/octet-stream" />
+        </item>
+        <item>
+            <title>0.3.149</title>
+            <pubDate>Tue, 15 Sep 2026 05:00:00 +0800</pubDate>
+            <sparkle:version>154</sparkle:version>
+            <sparkle:shortVersionString>0.3.149</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>0.3.149</h3>
+                <ul>
+                    <li>「已连接的盘」每块盘显示连接通路：已打开的按实际走的「稳定」/「高速」，未打开的按对方是否支持「可稳定」/「仅高速」，打开失败「异常」；新增按通路分类</li>
+                    <li>稳定模式挂上的盘现在也出现在「已连接的盘」里，断开/推出同样生效</li>
+                    <li>升级不会关闭任何共享</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://github.com/Vangu9981/C01-backup-tool-releases/releases/download/v0.3.149/VBToolbox-0.3.149-universal.dmg" sparkle:edSignature="8hjPyJ6qpJN1yw/vejA08wecMkt/Gy9oCzRk+g4spE+fTp6KQJlG39KxdILMlSK5LFThapQ2CiL9tWvYVkqKBg==" length="11447692" type="application/octet-stream" />
+        </item>
+        <item>
+            <title>0.3.148</title>
+            <pubDate>Mon, 14 Sep 2026 21:20:00 +0800</pubDate>
+            <sparkle:version>153</sparkle:version>
+            <sparkle:shortVersionString>0.3.148</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>0.3.148</h3>
+                <ul>
+                    <li>共享盘新增「稳定模式」：公开共享由 App 内置文件服务直接提供，使用方打开时优先走它、不成再自动退回原有方式，用于解决 macOS 26 上部分电脑“能连上、打不开”</li>
+                    <li>供方与使用方都升级到本版后自动生效，无需任何设置；旧版本互不影响</li>
+                    <li>升级不会关闭任何共享</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://github.com/Vangu9981/C01-backup-tool-releases/releases/download/v0.3.148/VBToolbox-0.3.148-universal.dmg" sparkle:edSignature="SGUAQcPxNtiXazcKxICS1nwKqjK54BmAlSQMhNiS5zFR1GUFhrSncLEBKSytOk3QTaYzTFOvVHVGgLTn2z8xAA==" length="11379142" type="application/octet-stream" />
+        </item>
+        <item>
+            <title>0.3.147</title>
+            <pubDate>Mon, 14 Sep 2026 20:40:00 +0800</pubDate>
+            <sparkle:version>152</sparkle:version>
+            <sparkle:shortVersionString>0.3.147</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>0.3.147</h3>
+                <ul>
+                    <li>供方诊断在客人挂不上时附上共享的完整系统登记块、路径及每级父目录的属性，便于定位 macOS 26 上家目录共享客人打不开的原因</li>
+                    <li>升级不会关闭任何共享</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://github.com/Vangu9981/C01-backup-tool-releases/releases/download/v0.3.147/VBToolbox-0.3.147-universal.dmg" sparkle:edSignature="4zsF0+BRzegN45tl1laYubOLktZPPSTblMWS9onK29yFFqNmiksPLl4u8cvCfZh9JZyTENe9cY/Magd1JdzJCw==" length="10917284" type="application/octet-stream" />
+        </item>
+        <item>
+            <title>0.3.146</title>
+            <pubDate>Mon, 14 Sep 2026 20:00:00 +0800</pubDate>
+            <sparkle:version>151</sparkle:version>
+            <sparkle:shortVersionString>0.3.146</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>0.3.146</h3>
+                <ul>
+                    <li>连接握手的回应带上供方 macOS 版本；供方自诊断增加 SMB 服务器偏好与 Guest 账户记录，便于把"客人打不开"与系统版本对上号</li>
+                    <li>升级不会关闭任何共享</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://github.com/Vangu9981/C01-backup-tool-releases/releases/download/v0.3.146/VBToolbox-0.3.146-universal.dmg" sparkle:edSignature="JprSLnPxvBkgcgGMUjo+wYxyy0ECabZmnKlkxP7KZaQJokUshHcuZ5+2TdBwyr9Bfht9SYcqAXulHcCmxnxpDQ==" length="10896680" type="application/octet-stream" />
+        </item>
+        <item>
+            <title>0.3.145</title>
+            <pubDate>Mon, 14 Sep 2026 19:10:00 +0800</pubDate>
+            <sparkle:version>150</sparkle:version>
+            <sparkle:shortVersionString>0.3.145</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>0.3.145</h3>
+                <ul>
+                    <li>从安装盘双击"自动安装"失败时（应用程序里已有一份无写权限的旧副本），改为弹出系统管理员授权框完成安装；仍失败会给出真实原因</li>
+                    <li>升级不会关闭任何共享</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://github.com/Vangu9981/C01-backup-tool-releases/releases/download/v0.3.145/VBToolbox-0.3.145-universal.dmg" sparkle:edSignature="qkQT2GiXx3GzcQsD5CU+np9UzhlI7vchSAznBS/p6cmpGT1MQYZomjizd/0EcFRsEpjE11oOmjDMsMANJsNtBg==" length="10868105" type="application/octet-stream" />
+        </item>
+        <item>
+            <title>0.3.144</title>
+            <pubDate>Mon, 14 Sep 2026 18:40:00 +0800</pubDate>
+            <sparkle:version>149</sparkle:version>
+            <sparkle:shortVersionString>0.3.144</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>0.3.144</h3>
+                <ul>
+                    <li>「打开」共享失败后，自动向供方索取它那边的体检和最近 smbd 日志，写入本机报错日志——一份日志就有两边证据（供方需 ≥0.3.144）</li>
+                    <li>「已连接的盘」里推不出的（正在被使用）盘，旁边出现「强制推出」（需确认）；「全部删除」后若有盘没能卸载会明确说明</li>
+                    <li>升级不会关闭任何共享</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://github.com/Vangu9981/C01-backup-tool-releases/releases/download/v0.3.144/VBToolbox-0.3.144-universal.dmg" sparkle:edSignature="LlORgElXdBLdgM1jhzMxGx0edKaw/TJhyd3LWoSYLXKHJYcx8vpwJFO/ndc7knPIZcp6eRcfOmRWaFa6okBLDw==" length="10859074" type="application/octet-stream" />
+        </item>
+        <item>
+            <title>0.3.143</title>
+            <pubDate>Mon, 14 Sep 2026 13:00:00 +0800</pubDate>
+            <sparkle:version>148</sparkle:version>
+            <sparkle:shortVersionString>0.3.143</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>0.3.143</h3>
+                <ul>
+                    <li>「已连接的盘」新增「删除」和「全部删除」：把本机关于某台／全部供方的连接痕迹一次清干净（残留挂载、配对登记含口令、搜索记忆、本 App 账户的钥匙串项），下次建立连接完全从零开始；对方电脑上的账户不受影响</li>
+                    <li>升级不会关闭任何共享</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://github.com/Vangu9981/C01-backup-tool-releases/releases/download/v0.3.143/VBToolbox-0.3.143-universal.dmg" sparkle:edSignature="VzD2F8tmLRG7QJfvffLUWtC0j1KerUErn49iEb03tWeGia/knTnDE0RCa6h9pIrqo4h2kmWjwQUVYcnPpVgWBQ==" length="10786646" type="application/octet-stream" />
+        </item>
+        <item>
+            <title>0.3.142</title>
+            <pubDate>Mon, 14 Sep 2026 11:00:00 +0800</pubDate>
+            <sparkle:version>147</sparkle:version>
+            <sparkle:shortVersionString>0.3.142</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>0.3.142</h3>
+                <ul>
+                    <li>新增「供方自诊断」：有公开共享的机器会在启动 60 秒后自动检查客人能否打开自己的公开盘（系统开关、访客账户、客人标记、卷属性、权限、以本机 IP 客人试挂），结果写入「报错问题收集日志」，之后每 30 分钟最多一次——不再需要手动跑命令</li>
+                    <li>App 启动记录附 macOS 版本；升级不会关闭任何共享</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://github.com/Vangu9981/C01-backup-tool-releases/releases/download/v0.3.142/VBToolbox-0.3.142-universal.dmg" sparkle:edSignature="ld+5Fs2Y9LBEmmJopf8fO3cvea5EvUQCu96Mhpms25nCeChQg0bbCRNZqi8dQPHD5U8zv65E+OFmF0m5udmaAQ==" length="10674146" type="application/octet-stream" />
+        </item>
+        <item>
+            <title>0.3.141</title>
+            <pubDate>Mon, 14 Sep 2026 10:30:00 +0800</pubDate>
+            <sparkle:version>146</sparkle:version>
+            <sparkle:shortVersionString>0.3.141</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>0.3.141</h3>
+                <ul>
+                    <li>诊断命令的「对方 IP」输入框改为蓝色外框，更显眼</li>
+                    <li>升级不会关闭任何共享</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://github.com/Vangu9981/C01-backup-tool-releases/releases/download/v0.3.141/VBToolbox-0.3.141-universal.dmg" sparkle:edSignature="C1DDrol+CcSP5iH0eQS1Ie0yMvRbtJ0Sq0T3W9w9nA+EvEmhBakKxdHhudP3mzTazdimPsn8kM07kqEymZ2sAA==" length="10581526" type="application/octet-stream" />
+        </item>
+        <item>
+            <title>0.3.140</title>
+            <pubDate>Sun, 13 Sep 2026 23:30:00 +0800</pubDate>
+            <sparkle:version>145</sparkle:version>
+            <sparkle:shortVersionString>0.3.140</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>0.3.140</h3>
+                <ul>
+                    <li>「发现与连接」页也显示"本机：名字 · IP"，多台机器截图时一眼分清</li>
+                    <li>诊断命令新增 11号（本机 SMB 服务最近 3 分钟的日志）、12号（访客账户与 SMB 访客访问状态）</li>
+                    <li>升级不会关闭任何共享</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://github.com/Vangu9981/C01-backup-tool-releases/releases/download/v0.3.140/VBToolbox-0.3.140-universal.dmg" sparkle:edSignature="tnnyeoSLZ73OyHHuE+ihxU7mvVugP0CnXF/qeNHox+WQ4re47RoiyTE6cvBvTYl75wamsAhLpb1nSKBLgOKHCw==" length="10599311" type="application/octet-stream" />
+        </item>
+        <item>
+            <title>0.3.139</title>
+            <pubDate>Sun, 13 Sep 2026 23:05:00 +0800</pubDate>
+            <sparkle:version>144</sparkle:version>
+            <sparkle:shortVersionString>0.3.139</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>0.3.139</h3>
+                <ul>
+                    <li>诊断命令：没填对方 IP 时，需要 IP 的 1／2／5 号会提示"先在上面填对方IP"，不再复制出带占位符的命令</li>
+                    <li>升级不会关闭任何共享</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://github.com/Vangu9981/C01-backup-tool-releases/releases/download/v0.3.139/VBToolbox-0.3.139-universal.dmg" sparkle:edSignature="ziNFhfFb56tm/Y7cn9nAUHJUxsYFcqQ7sUG31Ab9GhmlM21NcAKBQT1utPaZXXebEtaOkHntRClRxNJI8V8pCg==" length="10586122" type="application/octet-stream" />
+        </item>
+        <item>
+            <title>0.3.138</title>
+            <pubDate>Sun, 13 Sep 2026 22:45:00 +0800</pubDate>
+            <sparkle:version>143</sparkle:version>
+            <sparkle:shortVersionString>0.3.138</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>0.3.138</h3>
+                <ul>
+                    <li>诊断命令新增 9号（每个共享路径的权限与 ACL）、10号（家目录／下载／外接盘的穿越权限），用于定位"能连上、打不开"时缺失的客人权限</li>
+                    <li>升级不会关闭任何共享</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://github.com/Vangu9981/C01-backup-tool-releases/releases/download/v0.3.138/VBToolbox-0.3.138-universal.dmg" sparkle:edSignature="Y1krSS8Bp5WAESLXxRDF2Zmi6oqld5nLMh+a+MqDsmFGD6dSkdYTDv4Y170Tz5hZxBuqWExBRnhjGdY9PpgqCg==" length="10580757" type="application/octet-stream" />
+        </item>
+        <item>
+            <title>0.3.137</title>
+            <pubDate>Sun, 13 Sep 2026 22:20:00 +0800</pubDate>
+            <sparkle:version>142</sparkle:version>
+            <sparkle:shortVersionString>0.3.137</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>0.3.137</h3>
+                <ul>
+                    <li>「通用设置 → 诊断命令」每条带编号（1号～8号），开发只需告诉你"在哪台跑几号"</li>
+                    <li>升级不会关闭任何共享</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://github.com/Vangu9981/C01-backup-tool-releases/releases/download/v0.3.137/VBToolbox-0.3.137-universal.dmg" sparkle:edSignature="KMHJFxF/+emugZ+ZKnm5N1hvCAG5ILfQUl1wG+U5oMb+CIDtSelmFtMPujX1mOIiiBvgdjQfb2FbCJUjuBXlCQ==" length="10574992" type="application/octet-stream" />
+        </item>
+        <item>
+            <title>0.3.136</title>
+            <pubDate>Sun, 13 Sep 2026 22:00:00 +0800</pubDate>
+            <sparkle:version>141</sparkle:version>
+            <sparkle:shortVersionString>0.3.136</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>0.3.136</h3>
+                <ul>
+                    <li>「通用设置」新增「诊断命令」：排查共享盘时要在终端跑的 8 条只读命令，填上对方 IP 后每条一键复制，也可复制全部，不用再来回搬运</li>
+                    <li>升级不会关闭任何共享</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://github.com/Vangu9981/C01-backup-tool-releases/releases/download/v0.3.136/VBToolbox-0.3.136-universal.dmg" sparkle:edSignature="hvq+TEWkwjJOTyVxzO5xok1NqukPZASUac589ORrHKbYFT9y3jlIo5n476HTrMzmZOfXlzPucpqdxtCiDg86Dw==" length="10575619" type="application/octet-stream" />
+        </item>
+        <item>
+            <title>0.3.135</title>
+            <pubDate>Sun, 13 Sep 2026 21:30:00 +0800</pubDate>
+            <sparkle:version>140</sparkle:version>
+            <sparkle:shortVersionString>0.3.135</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>0.3.135</h3>
+                <ul>
+                    <li>「发现与连接」里只靠其它供方转告／上轮记录出现的机器，现在会在行上明确标注"由 X 转告 · 本机直连不到它，共享列表来自对方记忆、可能不完整"，避免把二手信息当成正常找到的机器</li>
+                    <li>升级不会关闭任何共享</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://github.com/Vangu9981/C01-backup-tool-releases/releases/download/v0.3.135/VBToolbox-0.3.135-universal.dmg" sparkle:edSignature="02AlwMWPTsQ3S+PN+gIYvgu52JaDlofa0F5fUEdjCCPL0zATMT+uaCAqV8vQbHTukIyMboD4hRdXjseANQ6uCg==" length="10508350" type="application/octet-stream" />
+        </item>
+        <item>
+            <title>0.3.134</title>
+            <pubDate>Sun, 13 Sep 2026 21:00:00 +0800</pubDate>
+            <sparkle:version>139</sparkle:version>
+            <sparkle:shortVersionString>0.3.134</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>0.3.134</h3>
+                <ul>
+                    <li>修复公开盘目录里有坏符号链接（如 node_modules）时，"guest读权限设置失败／命令超时"导致共享被自动撤回：这类告警与客人读权限无关，不再当成失败；权限命令超时放宽到 10 分钟</li>
+                    <li>搜索快照末尾记录本轮历时与结束原因，便于分辨搜索是否被提前掐断</li>
+                    <li>升级不会关闭任何共享</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://github.com/Vangu9981/C01-backup-tool-releases/releases/download/v0.3.134/VBToolbox-0.3.134-universal.dmg" sparkle:edSignature="fc/zV4RatcbvYVHl1EJ4H0ICxMnNAQx6bmZqoZPe4otwE8H3KypHRYam/ggBzLGoWfWcu27fBEMl6YaaHhIjBw==" length="10495106" type="application/octet-stream" />
+        </item>
+        <item>
+            <title>0.3.133</title>
+            <pubDate>Sun, 13 Sep 2026 08:50:00 +0800</pubDate>
+            <sparkle:version>138</sparkle:version>
+            <sparkle:shortVersionString>0.3.133</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>0.3.133</h3>
+                <ul>
+                    <li>每轮搜索的结果快照（找到哪几台、各自 IP、是靠多播／直连扫描／转告找到的）以及"已清理记忆表旧记录"现在也写入「报错问题收集日志」，导出一份即可对照各台差异</li>
+                    <li>只加日志，不改搜索逻辑；升级不会关闭任何共享</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://github.com/Vangu9981/C01-backup-tool-releases/releases/download/v0.3.133/VBToolbox-0.3.133-universal.dmg" sparkle:edSignature="BLkg7QZvdtfpDn+zSnJq28MyGUkfxlw7CtJaBDZUXXn5uQiu8Dwl6c+ohjID3uTxHq8Sw/bFVZLDG9iIhlXUCA==" length="10487260" type="application/octet-stream" />
+        </item>
+        <item>
+            <title>0.3.132</title>
+            <pubDate>Sat, 12 Sep 2026 23:05:00 +0800</pubDate>
+            <sparkle:version>137</sparkle:version>
+            <sparkle:shortVersionString>0.3.132</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>0.3.132</h3>
+                <ul>
+                    <li>修复电脑改名后，旧名字仍被当成"另一台机器"列在搜索结果里、点「建立连接」必然失败：同一台机器只保留在线的新名字，记忆里的旧名字自动清理（本机自己改名前的旧记录也一并清掉）</li>
+                    <li>只靠记忆／转告得知的供方，连接被拒时也会按名字做一次 Bonjour 实时解析重试</li>
+                    <li>「建立连接」失败提示末尾附上逐步过程（状态变化、系统报错、耗时），报错日志一份就能定性</li>
+                    <li>升级不会关闭任何共享</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://github.com/Vangu9981/C01-backup-tool-releases/releases/download/v0.3.132/VBToolbox-0.3.132-universal.dmg" sparkle:edSignature="+rlR8mO6PT9Dlkgdw2B6zSNqRFL46ybG7uBdoXA2K1+dQKtUj/bGdNBhhWljZXUmai1PGwd1x6LSdXd/IJtjDw==" length="10500329" type="application/octet-stream" />
+        </item>
+        <item>
+            <title>0.3.131</title>
+            <pubDate>Sat, 12 Sep 2026 22:40:00 +0800</pubDate>
+            <sparkle:version>136</sparkle:version>
+            <sparkle:shortVersionString>0.3.131</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>0.3.131</h3>
+                <ul>
+                    <li>修复「建立连接」有些机器连不上：之前会连到对方 App 重启前的旧端口，对方立刻拒绝却要等 15 秒才报"连接超时"——现在被拒后 1.5 秒内自动按 Bonjour 实时解析重连，并且不再把旧端口当成"已核实"记进记忆表</li>
+                    <li>「建立连接／配对／请求批准」全过程逐步追踪写入「连接日志」（状态变化、系统报错、耗时），失败提示里直接给出原因分类（对方睡眠／端口没响应／TLS／名字解析不到）</li>
+                    <li>供方侧也记录入站连接失败和请求来源，两边日志能对上</li>
+                    <li>升级不会关闭任何共享</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://github.com/Vangu9981/C01-backup-tool-releases/releases/download/v0.3.131/VBToolbox-0.3.131-universal.dmg" sparkle:edSignature="9iLLDgxWGFK4W79vevg1CxqEvntxVLjy8f6BzrPsI4/w+Wj/gcx6tft9NH2R//M3tziEQKpjd/ipDq+nZK0XBw==" length="10435429" type="application/octet-stream" />
+        </item>
+        <item>
+            <title>0.3.130</title>
+            <pubDate>Sat, 12 Sep 2026 21:40:00 +0800</pubDate>
+            <sparkle:version>135</sparkle:version>
+            <sparkle:shortVersionString>0.3.130</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>0.3.130</h3>
+                <ul>
+                    <li>修复本机会把自己当成一台供方：搜索结果里不再出现本机，不能再连接自己；启动时自动清除登记表里的"自己"并卸载经 127.0.0.1／本机 IP 挂上的自家共享（这就是"打开 UD1 变成 Drop Box"和"全部断开后还剩 127.0.0.1"的根因）</li>
+                    <li>「断开连接」「全部断开连接」现在会同时卸载对应的盘（不强制，盘被占用会如实提示），断完页面为空</li>
+                    <li>访达连上但 App 没登记的盘：分组标题改为"未知供方 · IP"，并提供真正可用的「推出」按钮</li>
+                    <li>升级不会关闭任何共享</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://github.com/Vangu9981/C01-backup-tool-releases/releases/download/v0.3.130/VBToolbox-0.3.130-universal.dmg" sparkle:edSignature="ACbiw9h4RgUUFvamXqUqlNR67u+4FU2fQ7wjCUbvo1UMAxpj4DB7ODBJtgWZgD6f8C0Ixaz4moRsIMpXM6zqDQ==" length="10244315" type="application/octet-stream" />
+        </item>
+        <item>
+            <title>0.3.129</title>
+            <pubDate>Sat, 12 Sep 2026 21:00:00 +0800</pubDate>
+            <sparkle:version>134</sparkle:version>
+            <sparkle:shortVersionString>0.3.129</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>0.3.129</h3>
+                <ul>
+                    <li>修复访达用 Apple ID／设备名连上的共享盘在「已连接的盘」里被归到错误名字下（设备名里的空格编码被误当作网络接口后缀截断）——现在能正确识别为同一台供方，并可直接打开已挂载的盘</li>
+                    <li>本版只改这一处，不涉及搜索发现逻辑；升级不会关闭任何共享</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://github.com/Vangu9981/C01-backup-tool-releases/releases/download/v0.3.129/VBToolbox-0.3.129-universal.dmg" sparkle:edSignature="/JcnCblIOiYwMkLhjqXzlZYVsr+xflBvL82Q7NxaXf/+hBeMsuzLZrha7JnYrvpl4fwyKiJi2vTUzmP4A15JDA==" length="10190441" type="application/octet-stream" />
+        </item>
+        <item>
+            <title>0.3.128</title>
+            <pubDate>Sat, 12 Sep 2026 19:45:00 +0800</pubDate>
+            <sparkle:version>133</sparkle:version>
+            <sparkle:shortVersionString>0.3.128</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>0.3.128</h3>
+                <ul>
+                    <li><b>修复"升级后共享被关闭、别人找不到我"的根本原因</b>：App 启动时后台服务正在重启，旧版本会把这几秒内没连上的共享当作"不合格"直接关闭并停止广播——升级过几次的电脑就会一台台从局域网里消失。现在只有后台服务明确判定"这块盘不能公开"才会自动关闭，连接不上一律保持共享开启不变；启动后会先确认后台服务就绪再做检查</li>
+                    <li>升级到本版后不需要再手动重新打开共享；本次升级本身也不会关闭任何共享</li>
+                    <li>若某个共享确实被系统判定为不能公开而自动关闭，会记录并显示原因</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://github.com/Vangu9981/C01-backup-tool-releases/releases/download/v0.3.128/VBToolbox-0.3.128-universal.dmg" sparkle:edSignature="IdEwkw2DaVlGx5M1dOjrY9Sx4by4jk82vPVhsk8jk/frJ043gOHeQ8EN0gSfZwsfKQLQQAGqD302h+YZhF4KCQ==" length="10170424" type="application/octet-stream" />
+        </item>
+        <item>
+            <title>0.3.125</title>
+            <pubDate>Sat, 12 Sep 2026 17:50:00 +0800</pubDate>
+            <sparkle:version>130</sparkle:version>
+            <sparkle:shortVersionString>0.3.125</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>0.3.125</h3>
+                <ul>
+                    <li>「已连接的盘」现在会和系统真实挂载对账：访达里已经连上的盘（比如用 Apple ID 连的）也会显示出来，标"系统已挂载（访达连接）"，点「打开」直接进入，不再"访达能找到、App 里看不见"</li>
+                    <li>公开盘「建立连接」不再被配对通道超时卡死：超时会自动改为直接以客人身份挂载，挂上即算连接成功</li>
+                    <li>「连接日志」新增三方对照表：同意连接的盘 / 系统实际挂载的盘 / 已连接的盘显示的盘，以及四类差异，方便排查"连了却不显示"</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://github.com/Vangu9981/C01-backup-tool-releases/releases/download/v0.3.125/VBToolbox-0.3.125-universal.dmg" sparkle:edSignature="+gY+l8TVpG14fGS4eRXOYybEKk4GCqi2kkfnoKZZucKNB5Cw7hVL2V5g94dbqSq82GY8fyrCpbYhH0IVYU/MCw==" length="10088429" type="application/octet-stream" />
+        </item>
+        <item>
+            <title>0.3.124</title>
+            <pubDate>Sat, 12 Sep 2026 16:50:00 +0800</pubDate>
+            <sparkle:version>129</sparkle:version>
+            <sparkle:shortVersionString>0.3.124</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>0.3.124</h3>
+                <ul>
+                    <li>搜索结果更稳：已找到的电脑不再"闪一下又消失、停在更少的台数"——最近确认过的电脑会稳定保留在列表里（标「上轮记录」，打开前会再核实一次）</li>
+                    <li>诊断更完整：每次搜索（手动点击、页面自动、定时自动的每一轮）开头都会把本机所有网卡记进「报错问题收集日志」，方便排查"某台就是找不全"的问题</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://github.com/Vangu9981/C01-backup-tool-releases/releases/download/v0.3.124/VBToolbox-0.3.124-universal.dmg" sparkle:edSignature="MWSh4fBY8DjzvSTAHSm9fa1a5EJTcaiTsx1FRFrIlnlRjlO+VmB7ksjzRdkMB848cZwOmE2ClgnH3qJuEWK8AA==" length="10007163" type="application/octet-stream" />
+        </item>
+        <item>
+            <title>0.3.123</title>
+            <pubDate>Sat, 12 Sep 2026 16:25:00 +0800</pubDate>
+            <sparkle:version>128</sparkle:version>
+            <sparkle:shortVersionString>0.3.123</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>0.3.123</h3>
+                <ul>
+                    <li>修复共享盘明明已经挂载、点「打开」却报失败（状态码17）：当同一台供方的盘已经通过别的方式挂载在本机（比如访达用账户连过、或用设备名而非IP连过），现在会直接复用那个已挂载的盘打开，不再误判为打不开，也不再重复挂出同名副本</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://github.com/Vangu9981/C01-backup-tool-releases/releases/download/v0.3.123/VBToolbox-0.3.123-universal.dmg" sparkle:edSignature="HqPg5fPg2dETuEBOeeUB4EUNdviq4TN5vvqs6F1le7DDTFUU7g2cRcUPArUOS3YgpJSXGgA/v5kXKnFrjzFCAA==" length="10003494" type="application/octet-stream" />
+        </item>
+        <item>
+            <title>0.3.122</title>
+            <pubDate>Sat, 12 Sep 2026 15:15:00 +0800</pubDate>
+            <sparkle:version>127</sparkle:version>
+            <sparkle:shortVersionString>0.3.122</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>0.3.122</h3>
+                <ul>
+                    <li>修复供方设置共享时「公开/认证/关闭」按钮全部失效：历史配对里有损坏的账户时，会给所有账户补权限失败并撤回整个共享——现在自动跳过并清理这类失效账户，不再连累其它共享</li>
+                    <li>修复「原来能找到的电脑现在找不到」：恢复稳定的发现策略，别人转告的电脑正常显示、不再一轮没直连核实到就消失；搜索列表不再出现很久以前的电脑闪现</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://github.com/Vangu9981/C01-backup-tool-releases/releases/download/v0.3.122/VBToolbox-0.3.122-universal.dmg" sparkle:edSignature="C0FFRR4pOZHG3lF/j4swqhuaR88IgydVpb2VEvHugFKlPRZG+mhMOl3gLoRuXC+0IjWOocNfqC1BGAY+MaBDDw==" length="9997952" type="application/octet-stream" />
+        </item>
+        <item>
+            <title>0.3.121</title>
+            <pubDate>Sat, 12 Sep 2026 14:10:00 +0800</pubDate>
+            <sparkle:version>126</sparkle:version>
+            <sparkle:shortVersionString>0.3.121</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>0.3.121</h3>
+                <ul>
+                    <li>局域网发现更稳：改为每轮直接询问设备本人在线状态，收包丢失也不再从列表消失；分包的发现信息能拼齐；大网段优先扫描本机附近，不再漏掉近邻电脑</li>
+                    <li>连接权限修复：认证账户配对/重连成功后补齐共享目录专属权限；公开共享支持协作读写且新建文件自动继承权限</li>
+                    <li>挂载更安全：网络短暂超时不再强制卸载正在使用的盘，避免打断读写；复用已挂载的盘会严格核对服务器、共享名和身份，杜绝串到同名的另一台机器</li>
+                    <li>错误提示更准确：不再凭单个错误码臆断磁盘格式或权限问题，给出真正该检查的方向</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://github.com/Vangu9981/C01-backup-tool-releases/releases/download/v0.3.121/VBToolbox-0.3.121-universal.dmg" sparkle:edSignature="HYKQy+CHPM9F0alDdbDSO3bazBVADoSLb59M1olyVqbH1RpEcTzxCLy9F4GiFpfOv4kdRqfYxO44UiVlM4TNBw==" length="9970676" type="application/octet-stream" />
+        </item>
+        <item>
+            <title>0.3.120</title>
+            <pubDate>Fri, 11 Sep 2026 18:50:00 +0800</pubDate>
+            <sparkle:version>125</sparkle:version>
+            <sparkle:shortVersionString>0.3.120</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>0.3.120</h3>
+                <ul>
+                    <li>修复共享盘备份日志不显示：立即备份/自动备份的记录现在会出现在「备份日志中心」</li>
+                    <li>修复照片文件夹备份"显示完成实则0个文件"：源在移动硬盘/U盘上没读到文件时，不再假报成功，改为提示需在「系统设置→隐私与安全性」给VB工具箱授权后重试</li>
+                    <li>备份大幅提速：121个文件的占用检测从16秒降到0.1秒（只对最近改动的文件做占用检查）</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://github.com/Vangu9981/C01-backup-tool-releases/releases/download/v0.3.120/VBToolbox-0.3.120-universal.dmg" sparkle:edSignature="mYehKP6HnNdq9BGsoipqqJJw0hGsKklWzYlBucXQa1dDhQguh1DL9zmBDYIHhly08HU8/OxQaPJlWYKDWKg5CA==" length="9629389" type="application/octet-stream" />
+        </item>
+        <item>
+            <title>0.3.119</title>
+            <pubDate>Fri, 11 Sep 2026 18:10:00 +0800</pubDate>
+            <sparkle:version>124</sparkle:version>
+            <sparkle:shortVersionString>0.3.119</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>0.3.119</h3>
+                <ul>
+                    <li>修复某些电脑连接对方却报"找不到共享点/连接超时"：没接通网口的自分配地址(169.254)会被误当成对方的连接地址——现在这类地址一律不作为连接目标</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://github.com/Vangu9981/C01-backup-tool-releases/releases/download/v0.3.119/VBToolbox-0.3.119-universal.dmg" sparkle:edSignature="86BKU7KGB1nvdIDCc2oa2bWiXkCh4BOC+PedMp5QGDy64P1lt4PXoSHU7Mabzj4bUXD/Vw7ck163h/IQZCkWDA==" length="9616041" type="application/octet-stream" />
+        </item>
+        <item>
+            <title>0.3.118</title>
+            <pubDate>Fri, 11 Sep 2026 17:50:00 +0800</pubDate>
+            <sparkle:version>123</sparkle:version>
+            <sparkle:shortVersionString>0.3.118</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>0.3.118</h3>
+                <ul>
+                    <li>修复部分电脑"搜不到别人、连自己都发现不了"的真实bug：机器上没接通的网口(169.254自分配地址)会占满扫描名额，导致真实局域网段一个都没扫到——现在跳过这类网口，直连扫描能正常找全同网段的电脑</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/Vangu9981/C01-backup-tool-releases/releases/download/v0.3.118/VBToolbox-0.3.118-universal.dmg"
+                sparkle:edSignature="O0DM/UbuJYJy01DH4nRgULOTHPk0ojV/4x+5y+sOEv70HG98lv93otUQ4eBLopz3URVJMekAkUNsJ/njzzqoBg=="
+                length="9595791"
+                type="application/octet-stream" />
+        </item>
+        <item>
+            <title>0.3.117</title>
+            <pubDate>Fri, 11 Sep 2026 17:10:00 +0800</pubDate>
+            <sparkle:version>122</sparkle:version>
+            <sparkle:shortVersionString>0.3.117</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>0.3.117</h3>
+                <ul>
+                    <li>供方启动/刷新时对已设为「公开」的共享重新实测：exFAT等加不上读取权限的盘、或上次设置权限失败的共享，自动改回「认证」并说明原因——升级前设的"假公开"不再让使用方报"找不到共享点"</li>
+                    <li>搜索名单落盘：App启动后第一轮搜索也直接显示上轮已知的电脑</li>
+                    <li>逐台直连扫描额外覆盖已配对供方所在的网段(不同网段的电脑，只要路由通就能发现)</li>
+                    <li>启动后系统设置检查清单若仍"检查中"自动补检</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/Vangu9981/C01-backup-tool-releases/releases/download/v0.3.117/VBToolbox-0.3.117-universal.dmg"
+                sparkle:edSignature="wycDumjC9wUdneex7gG4YoQACac1x3ruMPmm2riu8LZLBWZqm8hnJZ2SHBDwhC4TrYhkBu1La0AWGdh9RWpKAA=="
+                length="9548128"
+                type="application/octet-stream" />
+        </item>
+        <item>
+            <title>0.3.116</title>
+            <pubDate>Fri, 11 Sep 2026 16:45:00 +0800</pubDate>
+            <sparkle:version>121</sparkle:version>
+            <sparkle:shortVersionString>0.3.116</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>0.3.116</h3>
+                <ul>
+                    <li>修复"点开始搜索先变3台、几秒后才变5台"：供方转告改为一有结果就立刻发起；新一轮开始先保留上一轮已知的电脑(标"上轮记录")，本轮确认后转正，未确认的才移除，列表不再先掉再涨</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/Vangu9981/C01-backup-tool-releases/releases/download/v0.3.116/VBToolbox-0.3.116-universal.dmg"
+                sparkle:edSignature="a43XME4FZ+91TCP+zMX2f3n+/ZmLjFu2u7KCEyMfQxz2n0167g5jaKoQr+apPs9A0q7a7ANbC15Dbk0l4xTUBQ=="
+                length="9473948"
+                type="application/octet-stream" />
+        </item>
+    </channel>
+</rss>
