@@ -6,6 +6,22 @@
         <description>VB工具箱版本更新列表</description>
         <language>zh-cn</language>
         <item>
+            <title>0.3.183</title>
+            <pubDate>Wed, 16 Sep 2026 13:15:00 +0800</pubDate>
+            <sparkle:version>188</sparkle:version>
+            <sparkle:shortVersionString>0.3.183</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>0.3.183</h3>
+                <ul>
+                    <li>「发现与连接」「已连接的盘」新增「收藏」分类，每一行都能收藏/取消</li>
+                    <li>「传输日志」可以从各台电脑取回与本机有关的记录（往别人的盘复制时记录在对方那台）</li>
+                    <li>「使用说明」按当前功能重写，常见问题扩充到 12 条</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://cdn.jsdelivr.net/gh/Vangu9981/vb-dist@v0.3.183/VBToolbox-0.3.183-universal.dmg" sparkle:edSignature="K+bMhtzXilv37yYu80xT5ZOnIQp7kv0ieCQQ0XGbSgJkqF8zDiItzY4T7XBy0WWcj4sF7Qh+BTtesoZCBEWpCA==" length="13817073" type="application/octet-stream" />
+        </item>
+        <item>
             <title>0.3.182</title>
             <pubDate>Wed, 16 Sep 2026 12:10:00 +0800</pubDate>
             <sparkle:version>187</sparkle:version>
