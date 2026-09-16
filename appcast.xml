@@ -6,6 +6,22 @@
         <description>VB工具箱版本更新列表</description>
         <language>zh-cn</language>
         <item>
+            <title>0.3.187</title>
+            <pubDate>Wed, 16 Sep 2026 16:45:00 +0800</pubDate>
+            <sparkle:version>192</sparkle:version>
+            <sparkle:shortVersionString>0.3.187</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>0.3.187</h3>
+                <ul>
+                    <li>所有提醒条改成亮橘黄底黑字，不再容易被忽略</li>
+                    <li>「发现与连接」「已连接的盘」列表加编号，方便说第几台第几块</li>
+                    <li>供方自诊断补上每一级父目录的 ACL 与判定依据</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://cdn.jsdelivr.net/gh/Vangu9981/vb-dist@v0.3.187/VBToolbox-0.3.187-universal.dmg" sparkle:edSignature="MOzaE5P3GsKFEk6HRfFhruBTn+sM7KgVS9B1RxxgT9ds4FxHTlGnYvYeDXOGNNLQDpp+nTm6wI95ghv/a1I+BA==" length="14040466" type="application/octet-stream" />
+        </item>
+        <item>
             <title>0.3.185</title>
             <pubDate>Wed, 16 Sep 2026 15:00:00 +0800</pubDate>
             <sparkle:version>190</sparkle:version>
