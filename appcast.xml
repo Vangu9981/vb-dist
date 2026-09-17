@@ -6,6 +6,22 @@
         <description>VB工具箱版本更新列表</description>
         <language>zh-cn</language>
         <item>
+            <title>0.3.193</title>
+            <pubDate>Fri, 18 Sep 2026 04:20:00 +0800</pubDate>
+            <sparkle:version>198</sparkle:version>
+            <sparkle:shortVersionString>0.3.193</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>0.3.193</h3>
+                <ul>
+                    <li>「我的共享」的模式改成四段：关闭 / 认证 / 公开读写 / 公开只读</li>
+                    <li>新增「公开只读」：别人能看能拷走，但改不了、删不掉、放不进东西</li>
+                    <li>同时连着两个网络时，可以指定只在其中一张网卡上对外提供共享服务</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://cdn.jsdelivr.net/gh/Vangu9981/vb-dist@v0.3.193/VBToolbox-0.3.193-universal.dmg" sparkle:edSignature="F5UuN0URhlbrJn0JNQKXhXToT+0ACuOFYR5RfQvqlGGa1cdp3+ERpnaxA0fEu4oked3pNJTLVYVKsGJ7KmAoAQ==" length="14434667" type="application/octet-stream" />
+        </item>
+        <item>
             <title>0.3.192</title>
             <pubDate>Thu, 17 Sep 2026 22:30:00 +0800</pubDate>
             <sparkle:version>197</sparkle:version>
