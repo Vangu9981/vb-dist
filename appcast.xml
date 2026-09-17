@@ -6,6 +6,24 @@
         <description>VB工具箱版本更新列表</description>
         <language>zh-cn</language>
         <item>
+            <title>0.3.192</title>
+            <pubDate>Thu, 17 Sep 2026 22:30:00 +0800</pubDate>
+            <sparkle:version>197</sparkle:version>
+            <sparkle:shortVersionString>0.3.192</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>0.3.192（安全更新，建议尽快升级）</h3>
+                <ul>
+                    <li>修复局域网内任何人发一条畸形请求即可让 App 意外退出的两个缺陷</li>
+                    <li>修复共享目录里的符号链接可被用来读写共享范围之外的文件</li>
+                    <li>新增来路防护：只接受局域网连接，反复发畸形请求的来源会被临时拉黑</li>
+                    <li>覆盖已有文件时若中途失败，不再把原文件弄丢</li>
+                    <li>修复「稳定模式」可能静默停止接受连接、界面却仍显示服务就绪</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://cdn.jsdelivr.net/gh/Vangu9981/vb-dist@v0.3.192/VBToolbox-0.3.192-universal.dmg" sparkle:edSignature="up7t/cQ8nkiMaHzb5oeiLG1k8rZ+t+oRrOQY18diDp7nRBUWsf0zXYKzL2j6c/avuZxSw4XPhbPej5c1R+9MDg==" length="14356167" type="application/octet-stream" />
+        </item>
+        <item>
             <title>0.3.191</title>
             <pubDate>Thu, 17 Sep 2026 05:00:00 +0800</pubDate>
             <sparkle:version>196</sparkle:version>
