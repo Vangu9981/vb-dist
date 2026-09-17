@@ -6,6 +6,21 @@
         <description>VB工具箱版本更新列表</description>
         <language>zh-cn</language>
         <item>
+            <title>0.3.196</title>
+            <pubDate>Fri, 18 Sep 2026 06:00:00 +0800</pubDate>
+            <sparkle:version>201</sparkle:version>
+            <sparkle:shortVersionString>0.3.196</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>0.3.196</h3>
+                <ul>
+                    <li>连接成功后共享盘会自动打开，直接出现在访达里，不用再手动点一次</li>
+                    <li>「已连接的盘」里的按钮改为「在访达中显示」，职责只剩带你去看这块盘</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://cdn.jsdelivr.net/gh/Vangu9981/vb-dist@v0.3.196/VBToolbox-0.3.196-universal.dmg" sparkle:edSignature="qgqJf69OZAAbqCA9a2SwOiLushr2UupFULYVh0ryEtjpldm4MI1Uj3n3Mr6rGujrhZqfBfFWfVHaTdle3exaDg==" length="14792377" type="application/octet-stream" />
+        </item>
+        <item>
             <title>0.3.195</title>
             <pubDate>Fri, 18 Sep 2026 05:10:00 +0800</pubDate>
             <sparkle:version>200</sparkle:version>
