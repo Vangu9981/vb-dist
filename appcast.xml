@@ -6,6 +6,20 @@
         <description>VB工具箱版本更新列表</description>
         <language>zh-cn</language>
         <item>
+            <title>0.3.198</title>
+            <pubDate>Fri, 18 Sep 2026 06:50:00 +0800</pubDate>
+            <sparkle:version>203</sparkle:version>
+            <sparkle:shortVersionString>0.3.198</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>0.3.198</h3>
+                <ul>
+                    <li>「使用的局域网」设置现在同时决定搜索往哪张网发，不再对够不到的网段做无效扫描</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://cdn.jsdelivr.net/gh/Vangu9981/vb-dist@v0.3.198/VBToolbox-0.3.198-universal.dmg" sparkle:edSignature="Kbm+j8Jypx17zRIIqJv8f0tGNk0QltbxpK50YxroMeOPSxnV9FtQoMu7JymjYQMZYPrHMjc74t5tbzlmyA3xDg==" length="14798190" type="application/octet-stream" />
+        </item>
+        <item>
             <title>0.3.197</title>
             <pubDate>Fri, 18 Sep 2026 06:20:00 +0800</pubDate>
             <sparkle:version>202</sparkle:version>
