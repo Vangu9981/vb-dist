@@ -6,6 +6,20 @@
         <description>VB工具箱版本更新列表</description>
         <language>zh-cn</language>
         <item>
+            <title>0.3.194</title>
+            <pubDate>Fri, 18 Sep 2026 04:40:00 +0800</pubDate>
+            <sparkle:version>199</sparkle:version>
+            <sparkle:shortVersionString>0.3.194</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>0.3.194</h3>
+                <ul>
+                    <li>「共享文件夹」下面那段说明跟着四段模式一起更新，不再只提「公开」</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://cdn.jsdelivr.net/gh/Vangu9981/vb-dist@v0.3.194/VBToolbox-0.3.194-universal.dmg" sparkle:edSignature="bEfFv8luqDOrlpniVacSMdMoBrFdBrZQSVczQtrAaGhmw1uOaXw/g3w8H6DQ0QXOtP2HeREYvU3rHunnmoJWAA==" length="14426749" type="application/octet-stream" />
+        </item>
+        <item>
             <title>0.3.193</title>
             <pubDate>Fri, 18 Sep 2026 04:20:00 +0800</pubDate>
             <sparkle:version>198</sparkle:version>
