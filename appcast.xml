@@ -6,6 +6,21 @@
         <description>VB工具箱版本更新列表</description>
         <language>zh-cn</language>
         <item>
+            <title>0.3.195</title>
+            <pubDate>Fri, 18 Sep 2026 05:10:00 +0800</pubDate>
+            <sparkle:version>200</sparkle:version>
+            <sparkle:shortVersionString>0.3.195</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>0.3.195</h3>
+                <ul>
+                    <li>「我的共享」两块列表的标题旁边新增「全部关闭」「全部认证」批量按钮</li>
+                    <li>清掉软件自己留在共享盘里的临时探针文件，并且以后不会再越堆越多</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://cdn.jsdelivr.net/gh/Vangu9981/vb-dist@v0.3.195/VBToolbox-0.3.195-universal.dmg" sparkle:edSignature="G6wjopJFkxq4/7J00tXt6gl3qZR7LvW+65/UA/T78CRYjHoeeAvGkrnn3MGkBi6pCYC01bfJAo5xND831ICvCQ==" length="14542859" type="application/octet-stream" />
+        </item>
+        <item>
             <title>0.3.194</title>
             <pubDate>Fri, 18 Sep 2026 04:40:00 +0800</pubDate>
             <sparkle:version>199</sparkle:version>
