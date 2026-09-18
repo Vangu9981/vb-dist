@@ -6,6 +6,23 @@
         <description>VB工具箱版本更新列表</description>
         <language>zh-cn</language>
         <item>
+            <title>0.3.201</title>
+            <pubDate>Fri, 18 Sep 2026 15:10:00 +0800</pubDate>
+            <sparkle:version>206</sparkle:version>
+            <sparkle:shortVersionString>0.3.201</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>0.3.201（建议尽快升级）</h3>
+                <ul>
+                    <li>重要：修复备份可能永久卡住——系统里只要有一个失效的网络盘，占用检查就会一直等下去</li>
+                    <li>「我的共享」页面变慢：共享配置被反复读盘解码，现在加了缓存</li>
+                    <li>对方设为「公开只读」的盘不再被误判为异常</li>
+                    <li>「全部断开连接」如实汇报清掉了多少条配对记录，不再显示成「没有可操作的对象」</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://cdn.jsdelivr.net/gh/Vangu9981/vb-dist@v0.3.201/VBToolbox-0.3.201-universal.dmg" sparkle:edSignature="1o57pv8wJrZlIByWm1Tnsm0GevDSr50Rc4OdWyfXmv1gp/dab6BEsjZ+lC2nCsgf5z6C+vTBDOHMvyR5IZTjBQ==" length="14973095" type="application/octet-stream" />
+        </item>
+        <item>
             <title>0.3.200</title>
             <pubDate>Fri, 18 Sep 2026 12:00:00 +0800</pubDate>
             <sparkle:version>205</sparkle:version>
