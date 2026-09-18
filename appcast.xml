@@ -6,6 +6,24 @@
         <description>VB工具箱版本更新列表</description>
         <language>zh-cn</language>
         <item>
+            <title>0.3.203</title>
+            <pubDate>Fri, 18 Sep 2026 22:00:00 +0800</pubDate>
+            <sparkle:version>208</sparkle:version>
+            <sparkle:shortVersionString>0.3.203</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>0.3.203（建议尽快升级）</h3>
+                <ul>
+                    <li>重要：修复别人连接过来时软件可能一直转圈——列出共享盘那一步会等一个没响应的网络盘</li>
+                    <li>「已连接的盘」每行独立成块，操作按钮不会再画到别的盘旁边</li>
+                    <li>对方已经不共享的盘归入「找不到盘」，不再混在「异常」里</li>
+                    <li>打不开时的提示改成一句话说清楚该怎么办，不再摆错误码</li>
+                    <li>共享读不到的盘时提示「这块盘当前读不到」，不再误报「系统盘不允许被共享」</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://cdn.jsdelivr.net/gh/Vangu9981/vb-dist@v0.3.203/VBToolbox-0.3.203-universal.dmg" sparkle:edSignature="Nb3CG/nD0c7VLRKAxNXLDJjuhG41w/Vh5zaFqkbGqLN0s6PObQ1YLg+Xg1JVoYRbVHhovm5qVybW6Z8YPBLfDg==" length="15042711" type="application/octet-stream" />
+        </item>
+        <item>
             <title>0.3.202</title>
             <pubDate>Fri, 18 Sep 2026 16:30:00 +0800</pubDate>
             <sparkle:version>207</sparkle:version>
