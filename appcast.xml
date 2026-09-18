@@ -6,6 +6,22 @@
         <description>VB工具箱版本更新列表</description>
         <language>zh-cn</language>
         <item>
+            <title>0.3.205</title>
+            <pubDate>Sat, 19 Sep 2026 13:00:00 +0800</pubDate>
+            <sparkle:version>210</sparkle:version>
+            <sparkle:shortVersionString>0.3.205</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>0.3.205</h3>
+                <ul>
+                    <li>「发现与连接」顶部加了三个分页按钮：机器总览 / 定时搜索 / 说明，默认停在「机器总览」</li>
+                    <li>机器总览这一页现在从筛选条直接开始，表格能完整显示，不再被上面的设置和说明文字顶下去</li>
+                    <li>左边电脑列表顶部加了「全部」，点一下右边就把所有电脑的共享盘一起列出来</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://cdn.jsdelivr.net/gh/Vangu9981/vb-dist@v0.3.205/VBToolbox-0.3.205-universal.dmg" sparkle:edSignature="YMpOMjHosglxmNwcPm8Z0STa+MHL7d0mmcOOu0G077I7K39hk33VXuaefEhY0U3uS59l8aEY1UnUCs6xRs6hDg==" length="15132455" type="application/octet-stream" />
+        </item>
+        <item>
             <title>0.3.204</title>
             <pubDate>Sat, 19 Sep 2026 10:00:00 +0800</pubDate>
             <sparkle:version>209</sparkle:version>
