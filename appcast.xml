@@ -6,6 +6,21 @@
         <description>VB工具箱版本更新列表</description>
         <language>zh-cn</language>
         <item>
+            <title>0.3.202</title>
+            <pubDate>Fri, 18 Sep 2026 16:30:00 +0800</pubDate>
+            <sparkle:version>207</sparkle:version>
+            <sparkle:shortVersionString>0.3.202</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>0.3.202（建议尽快升级）</h3>
+                <ul>
+                    <li>重要：修复界面可能长时间卡住转圈。共享路径落在失效的网络盘上时，界面绘制过程中的检查会永久等待</li>
+                    <li>重要：修复另一处无超时的系统查询，它会连带把界面拖住</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://cdn.jsdelivr.net/gh/Vangu9981/vb-dist@v0.3.202/VBToolbox-0.3.202-universal.dmg" sparkle:edSignature="yCknAv8b9IkI2PFhbsAXhNVqLGMLkXc+227133UdqFDo2UwTBaek0dPvrLZrX55XrrdcWBU4KdKxyqE6OwwRAg==" length="15052760" type="application/octet-stream" />
+        </item>
+        <item>
             <title>0.3.201</title>
             <pubDate>Fri, 18 Sep 2026 15:10:00 +0800</pubDate>
             <sparkle:version>206</sparkle:version>
