@@ -6,6 +6,23 @@
         <description>VB工具箱版本更新列表</description>
         <language>zh-cn</language>
         <item>
+            <title>0.3.200</title>
+            <pubDate>Fri, 18 Sep 2026 12:00:00 +0800</pubDate>
+            <sparkle:version>205</sparkle:version>
+            <sparkle:shortVersionString>0.3.200</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>0.3.200</h3>
+                <ul>
+                    <li>对方把硬盘拔掉时，「已连接的盘」里会明确标出「找不到盘」，不再显示成正常连接</li>
+                    <li>盘插回去后自动恢复正常，不用手动重连</li>
+                    <li>掉线和恢复都会记进连接日志，写明断了多久</li>
+                    <li>连接时若高速模式失败退到稳定模式，会记下失败原因</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://cdn.jsdelivr.net/gh/Vangu9981/vb-dist@v0.3.200/VBToolbox-0.3.200-universal.dmg" sparkle:edSignature="0z/u3fagmMPl3E32IwJD8yuvPuO8wjO5vJB863fZ4IZ57SfU5oIBl6rHjxLk7ncP4IsJviSVLsCdHv0vACxiAQ==" length="14976415" type="application/octet-stream" />
+        </item>
+        <item>
             <title>0.3.198</title>
             <pubDate>Fri, 18 Sep 2026 06:50:00 +0800</pubDate>
             <sparkle:version>203</sparkle:version>
