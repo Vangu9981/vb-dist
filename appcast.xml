@@ -6,6 +6,24 @@
         <description>VB工具箱版本更新列表</description>
         <language>zh-cn</language>
         <item>
+            <title>0.3.207</title>
+            <pubDate>Sat, 19 Sep 2026 17:00:00 +0800</pubDate>
+            <sparkle:version>212</sparkle:version>
+            <sparkle:shortVersionString>0.3.207</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>0.3.207（备份大提速）</h3>
+                <ul>
+                    <li><b>备份快了几十倍</b>：测试机实测 1000 个文件从 124 秒降到 3 秒。原因是检查"文件是否正被别人打开"时，每个文件都要单独启动一次系统工具并空等 50 毫秒——现在整轮只查一次</li>
+                    <li><b>先本地、后云</b>：本地/移动硬盘那份先做完，再传 iCloud。以前反过来，云慢的时候本地那份要一直干等</li>
+                    <li><b>能看见每一步花了多久</b>：「最近备份记录」每行下面直接显示用时和分步耗时，某个文件特别慢也会标出来</li>
+                    <li>备份和镜像都降低了优先级，不再跟你正在用的软件抢资源</li>
+                    <li>修复：文件名是中文时，"正被占用"的判断会失效（系统工具把中文转义了）</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://cdn.jsdelivr.net/gh/Vangu9981/vb-dist@v0.3.207/VBToolbox-0.3.207-universal.dmg" sparkle:edSignature="ghK8SqUDZxDSgw0Wm0hWfBsS/0kb1tfJYNWQsBlcYoLdirKjaUKitwDD1kwdgxjtrG89SVmJkp6VpxrwldBpBg==" length="15213668" type="application/octet-stream" />
+        </item>
+        <item>
             <title>0.3.206</title>
             <pubDate>Sat, 19 Sep 2026 16:30:00 +0800</pubDate>
             <sparkle:version>211</sparkle:version>
