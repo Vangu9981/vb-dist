@@ -6,6 +6,22 @@
         <description>VB工具箱版本更新列表</description>
         <language>zh-cn</language>
         <item>
+            <title>0.3.206</title>
+            <pubDate>Sat, 19 Sep 2026 16:30:00 +0800</pubDate>
+            <sparkle:version>211</sparkle:version>
+            <sparkle:shortVersionString>0.3.206</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>0.3.206</h3>
+                <ul>
+                    <li>「设置目标文件夹」里，目标A / 目标B 各加了一个「清除」按钮</li>
+                    <li>目标路径失效时（改名、移动、磁盘拔出）不用再被迫另选一个文件夹才能消掉顶部红色告警，直接清空就行</li>
+                    <li>清除会先问一次；已经备份好的文件不会被删除</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://cdn.jsdelivr.net/gh/Vangu9981/vb-dist@v0.3.206/VBToolbox-0.3.206-universal.dmg" sparkle:edSignature="tu33uEMO7HG4ZBpYqLPVvUq9kUsdZxK+XKRnrR132N0QsliJ328pgw3dXTb5wuVxvMvx6eJWktkd7h4YoELTCg==" length="15125887" type="application/octet-stream" />
+        </item>
+        <item>
             <title>0.3.205</title>
             <pubDate>Sat, 19 Sep 2026 13:00:00 +0800</pubDate>
             <sparkle:version>210</sparkle:version>
