@@ -6,6 +6,25 @@
         <description>VB工具箱版本更新列表</description>
         <language>zh-cn</language>
         <item>
+            <title>0.3.208</title>
+            <pubDate>Sun, 20 Sep 2026 12:00:00 +0800</pubDate>
+            <sparkle:version>213</sparkle:version>
+            <sparkle:shortVersionString>0.3.208</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>0.3.208（建议尽快升级）</h3>
+                <ul>
+                    <li><b>重要</b>：修复定时备份和手动备份撞在同一分钟时，可能产生一份内容不完整的备份</li>
+                    <li><b>重要</b>：iCloud 镜像原来每 10 分钟空跑一次全量扫描（一天 144 次），现已停止</li>
+                    <li>备份中途失败留下的半成品文件夹会被自动清理，不再一直占着盘</li>
+                    <li>空间检查按实际要写入的量算，不会再因为算多了而误报「空间不足」</li>
+                    <li>侧边栏可以用鼠标拖宽拖窄；窗口大小改为记住你上次拖成的样子</li>
+                    <li>「发现与连接」左边加了「全部」并默认选中；按钮灰掉时更容易看出点不了</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://cdn.jsdelivr.net/gh/Vangu9981/vb-dist@v0.3.208/VBToolbox-0.3.208-universal.dmg" sparkle:edSignature="zELmuvJbaaIRaQFW3N2MdCC6KpPmNm4uJXeIFJu+hC8PBR/XCqlXuCF1QtrJtOJPg2X8gqAeqExHjhKtNDqyCw==" length="15244053" type="application/octet-stream" />
+        </item>
+        <item>
             <title>0.3.207</title>
             <pubDate>Sat, 19 Sep 2026 17:00:00 +0800</pubDate>
             <sparkle:version>212</sparkle:version>
