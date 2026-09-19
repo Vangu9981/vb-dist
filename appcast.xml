@@ -6,6 +6,15 @@
         <description>VB工具箱版本更新列表</description>
         <language>zh-cn</language>
         <item>
+            <title>0.3.210</title>
+            <pubDate>Sun, 20 Sep 2026 14:00:00 +0800</pubDate>
+            <sparkle:version>215</sparkle:version>
+            <sparkle:shortVersionString>0.3.210</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h3>0.3.210</h3><ul><li><b>修复系统反复弹授权窗</b>：连着多个共享盘时，「想访问网络宗卷上的文件」这个系统弹窗会一个接一个地冒出来（真机实测堆了 43 个）。原因是软件没有向系统说明为什么要访问网络盘、移动硬盘和下载/桌面/文稿文件夹，现已补齐</li></ul>]]></description>
+            <enclosure url="https://cdn.jsdelivr.net/gh/Vangu9981/vb-dist@v0.3.210/VBToolbox-0.3.210-universal.dmg" sparkle:edSignature="akQMtoBpSMWwTeGFyxwjDBpC0Zlab/u/gWgqA5Gp8DEGHHNkylHw3RTifJxl6sVD9utqTgulCp6ZitE0ktkxAQ==" length="15251589" type="application/octet-stream" />
+        </item>
+        <item>
             <title>0.3.209</title>
             <pubDate>Sun, 20 Sep 2026 13:00:00 +0800</pubDate>
             <sparkle:version>214</sparkle:version>
