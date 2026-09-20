@@ -6,6 +6,15 @@
         <description>VB工具箱版本更新列表</description>
         <language>zh-cn</language>
         <item>
+            <title>0.3.211</title>
+            <pubDate>Sun, 20 Sep 2026 16:00:00 +0800</pubDate>
+            <sparkle:version>216</sparkle:version>
+            <sparkle:shortVersionString>0.3.211</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h3>0.3.211</h3><ul><li>「发现与连接」左边的电脑列表，每台现在同时显示名称和 IP（名字相近的机器不用再猜是哪台）</li><li>顶部「机器总览／定时搜索／说明」改成连成一组的网页菜单样式</li><li>「找不到盘」「收藏」两个分类改用红色，之前的亮橘黄压在白底上看不清</li></ul>]]></description>
+            <enclosure url="https://cdn.jsdelivr.net/gh/Vangu9981/vb-dist@v0.3.211/VBToolbox-0.3.211-universal.dmg" sparkle:edSignature="JOFi/62rx+LkUNjfzW7QGgVQz/xnaiNBAlaL/kIOSFXzhcy+lMXbUG14vkfHNYuhnOtRV0pLrgBMiNhfxWjpCA==" length="15274361" type="application/octet-stream" />
+        </item>
+        <item>
             <title>0.3.210</title>
             <pubDate>Sun, 20 Sep 2026 14:00:00 +0800</pubDate>
             <sparkle:version>215</sparkle:version>
