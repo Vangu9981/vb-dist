@@ -6,6 +6,15 @@
         <description>VB工具箱版本更新列表</description>
         <language>zh-cn</language>
         <item>
+            <title>0.3.212</title>
+            <pubDate>Mon, 21 Sep 2026 16:00:00 +0800</pubDate>
+            <sparkle:version>230</sparkle:version>
+            <sparkle:shortVersionString>0.3.212</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h3>0.3.212 · 内部测试</h3><ul><li><b>备份记录不再瞒报</b>：以前本地盘没接上时，那一头一个文件都没备上，界面却只显示另一头的「成功 8，失败 0」——真机上目标B 连续 9 天没备份，界面一直是绿的。现在每次备份两个目标各一行、多了「目标」列，整头没备上就用红字直说，并告诉你怎么办</li><li><b>不再反复弹「想使用钥匙串中的密钥」</b>：根因是软件把局域网共享用的临时证书塞进了你的「登录」钥匙串，每次升级都会重新问。现在改用软件自己的专用钥匙串</li><li><b>「全部删除」卸不掉盘</b>：多一级真正的强制手段，并以系统真实挂载表为准判断成没成</li><li><b>顶部小图标 + 程序坞状态灯</b>：窗口关着也能一眼看出有没有出事；任一模块出问题，顶部图标整个变红底白「!」</li><li><b>「发现与连接」整页排版返工</b>：去掉多余外框和分隔线，左右两栏改成 macOS 标准的独立面板；每行改成「序号→收藏→IP→名称→连接方式」一行放完；收藏星标放大；全局按钮字号回到正文档位</li><li><b>报错日志页不再空白/卡顿</b>：后台读取、只画最近 300 条（导出仍是完整 30 天）</li></ul><p><b>说明</b>：本包为内部测试包。242 界面层「备份记录页显示空」一项未修复、243/244 与 247 未测，已在实测报告中如实标注。</p>]]></description>
+            <enclosure url="https://cdn.jsdelivr.net/gh/Vangu9981/vb-dist@v0.3.212/VBToolbox-0.3.212-universal-internal.dmg" sparkle:edSignature="1Kzs4wIJnz5ROvMKKYdGUW+dIr0GuGVaggS9+LOdu0ME90FymtfmbDY2y5ijmsiJ6LEPCeddVFW39TZMIAkNCA==" length="15498472" type="application/octet-stream" />
+        </item>
+        <item>
             <title>0.3.211</title>
             <pubDate>Sun, 20 Sep 2026 16:00:00 +0800</pubDate>
             <sparkle:version>216</sparkle:version>
