@@ -6,6 +6,15 @@
         <description>VB工具箱版本更新列表</description>
         <language>zh-cn</language>
         <item>
+            <title>0.3.223</title>
+            <pubDate>Sat, 26 Sep 2026 05:20:27 +0800</pubDate>
+            <sparkle:version>241</sparkle:version>
+            <sparkle:shortVersionString>0.3.223</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h3>0.3.223 · 内部测试</h3><ul><li><b>升级终于能查到了</b>：之前九个版本的升级清单从来没更新过，各台点「检查更新」永远显示"已是最新"。</li><li><b>保存 Word 时共享盘不再显示成 IP</b>：显示对方电脑的真实名字。</li><li><b>共享盘挂在访达上更牢固</b>：开机自动挂回来的小帮手现在真的会装上，而且会反复重试。</li></ul>]]></description>
+            <enclosure url="https://cdn.jsdelivr.net/gh/Vangu9981/vb-dist@v0.3.223/VBToolbox-0.3.223-universal-internal.dmg" sparkle:edSignature="wGUlmP1MkLU16fuLL41OE1AdKGvABkrLBJwuvqd142m9h/D+ttea+9Si5OskChOcI+sqlB5x0dJ4EuXJ9eJYAA==" length="15825890" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>0.3.222</title>
             <pubDate>Sat, 26 Sep 2026 05:03:57 +0800</pubDate>
             <sparkle:version>240</sparkle:version>
