@@ -6,6 +6,15 @@
         <description>VB工具箱版本更新列表</description>
         <language>zh-cn</language>
         <item>
+            <title>0.3.228</title>
+            <pubDate>Sat, 26 Sep 2026 19:24:12 +0800</pubDate>
+            <sparkle:version>246</sparkle:version>
+            <sparkle:shortVersionString>0.3.228</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h3>0.3.228 · 内部测试</h3><ul><li><b>新增「开机时长」模块</b>：显示这台电脑连续开机多久了，菜单栏常驻显示，可设连续开机超过 N 天就提醒（只提醒，不自动重启）。睡眠时间照算，只有重启才归零。</li><li><b>不再反复弹「请输入钥匙串密码」</b>相关修复一并带上。</li></ul>]]></description>
+            <enclosure url="https://cdn.jsdelivr.net/gh/Vangu9981/vb-dist@v0.3.228/VBToolbox-0.3.228-universal-internal.dmg" sparkle:edSignature="9tACZI/ZUbOj6Oxct6O7IlN0Envn58AqI2cvynrk3KmFgoMVXewJZl1oGOSSZO5TvpaZGLEAWQ3yxxYq/JXuBQ==" length="16201583" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>0.3.223</title>
             <pubDate>Sat, 26 Sep 2026 05:20:27 +0800</pubDate>
             <sparkle:version>241</sparkle:version>
