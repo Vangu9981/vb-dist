@@ -1,8 +1,8 @@
 {
-  "version": "0.3.234",
-  "build": "246",
-  "url": "https://cdn.jsdelivr.net/gh/Vangu9981/vb-dist@v0.3.234/VBToolbox-0.3.234-universal-internal.dmg",
-  "sha256": "332f2837941c42b459d6aa9e7210a6c16f02432a79653023443405994ec54976",
-  "pubDate": "2026-09-26",
+  "version": "0.3.235",
+  "build": "3235",
+  "url": "https://cdn.jsdelivr.net/gh/Vangu9981/vb-dist@v0.3.235/VBToolbox-0.3.235-universal-internal.dmg",
+  "sha256": "ff7349f7d6dd791ad2d7c166658beb24ddce7eb02af728541221d197a377b655",
+  "pubDate": "2026-09-27",
   "channel": "internal"
 }
