@@ -6,6 +6,15 @@
         <description>VB工具箱版本更新列表</description>
         <language>zh-cn</language>
         <item>
+            <title>0.3.267</title>
+            <pubDate>Thu, 01 Oct 2026 19:15:16 +0800</pubDate>
+            <sparkle:version>3267</sparkle:version>
+            <sparkle:shortVersionString>0.3.267</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h3>0.3.267 · 内部测试</h3><p>访达表异常的行能修复、能移除；移除不再冒出别的盘；升级路线按地区自动选。</p>]]></description>
+            <enclosure url="https://cdn.jsdelivr.net/gh/Vangu9981/vb-dist@v0.3.267/VBToolbox-0.3.267-universal-internal.dmg" sparkle:edSignature="VJUL6/Sn6cZRcwE0FGP0OeQPE4kXcNhwsmfWMJhD5poZDtpnGJD98yA7v8pquw+geKvlhYs1iiIeDVurccduDA==" length="14067554" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>0.3.266</title>
             <pubDate>Thu, 01 Oct 2026 16:22:12 +0800</pubDate>
             <sparkle:version>3266</sparkle:version>
