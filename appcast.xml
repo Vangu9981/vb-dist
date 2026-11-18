@@ -6,6 +6,15 @@
         <description>VB工具箱版本更新列表</description>
         <language>zh-cn</language>
         <item>
+            <title>0.3.313</title>
+            <pubDate>Wed, 18 Nov 2026 18:02:46 +0700</pubDate>
+            <sparkle:version>3313</sparkle:version>
+            <sparkle:shortVersionString>0.3.313</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h3>0.3.313 · 内部测试</h3><ul><li>0.3.311 擅自把窗口工具条中间那排分区（共享池、消息、使用说明、升级与下载……）也换成了自己做的分段控件，在工具条里显示不出来，整排不见了。Boss 的图只圈了空间清理那排页，工具条这排不该动。改回原来的系统分段控件，跟 0.3.310 一样。空间清理那排页和「建议删除｜谨慎删除」照图保留橘黄选中。</li></ul>]]></description>
+            <enclosure url="https://cdn.jsdelivr.net/gh/Vangu9981/vb-dist@v0.3.313/VBToolbox-0.3.313-universal-internal.dmg" sparkle:edSignature="bey+2RioHnqxdYFz0Dglp2qMz9VCI5p3WSJCJXr7tj6jD/h71cViBtkUIoAZBX4Jq0GyW/3DvGmfDWiPuvoECw==" length="19303760" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>0.3.312</title>
             <pubDate>Wed, 18 Nov 2026 16:21:14 +0700</pubDate>
             <sparkle:version>3312</sparkle:version>
