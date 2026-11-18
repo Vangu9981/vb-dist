@@ -6,6 +6,15 @@
         <description>VB工具箱版本更新列表</description>
         <language>zh-cn</language>
         <item>
+            <title>0.3.312</title>
+            <pubDate>Wed, 18 Nov 2026 16:21:14 +0700</pubDate>
+            <sparkle:version>3312</sparkle:version>
+            <sparkle:shortVersionString>0.3.312</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h3>0.3.312 · 内部测试</h3><ul><li>空间清理「待删除文件夹」页：0.3.310 的「放不下就收栏」在真机上没管用——这页用的是可拖动分栏，系统按上次拖的位置分宽度，不管每栏最窄多少，1200×760 时详情栏照样被切掉，最小窗口时中间那栏的红字被切掉，「下一层」栏的大小切成「125.8 ME」。现在不让系统分：按这一刻窗口多宽算好每栏多宽（每栏先给够最窄宽度，多出来的按比例分），放不下先收「下一层」、再收详情栏，留下的每一栏都完整。这一页的栏宽不能再用手拖。</li></ul>]]></description>
+            <enclosure url="https://cdn.jsdelivr.net/gh/Vangu9981/vb-dist@v0.3.312/VBToolbox-0.3.312-universal-internal.dmg" sparkle:edSignature="/2kfg0FSv0pgh4riXgLEPZ3fxwOhjEsn391xemnPRkGRQj8AccKTjq3fAoyIri5XEYSZrJFpwzIIIjHde5rfDg==" length="19289532" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>0.3.310</title>
             <pubDate>Wed, 18 Nov 2026 15:43:27 +0700</pubDate>
             <sparkle:version>3310</sparkle:version>
