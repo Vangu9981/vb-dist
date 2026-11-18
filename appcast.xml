@@ -6,6 +6,15 @@
         <description>VB工具箱版本更新列表</description>
         <language>zh-cn</language>
         <item>
+            <title>0.3.307</title>
+            <pubDate>Wed, 18 Nov 2026 13:18:33 +0700</pubDate>
+            <sparkle:version>3307</sparkle:version>
+            <sparkle:shortVersionString>0.3.307</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h3>0.3.307 · 内部测试</h3><ul><li>发包测试分档：全量测试记录清零；读不出记录按模块档；模块档下 319 只在本包改了局域网代码时才做。</li><li>安装包压小：0.3.306 打好的包 20,190,596 字节，超过国内下载线路（jsDelivr）单文件上限，被发包程序拦下没发出去。打包时改成去掉程序里全部符号表（Xcode 正式构建 App 的默认做法），功能不变。没去符号的原件照旧留在打包机 build/symbols-版本号/，查闪退时用。</li></ul>]]></description>
+            <enclosure url="https://cdn.jsdelivr.net/gh/Vangu9981/vb-dist@v0.3.307/VBToolbox-0.3.307-universal-internal.dmg" sparkle:edSignature="GI8cYp4vOXaDneJ1Kv3/zMV2nI/4gb2w+xSs79kS35Wp3E4BF9haifVPzPtlmlNN1dmOnTNUyFqEYS0la6dZBA==" length="19326301" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>0.3.301</title>
             <pubDate>Mon, 16 Nov 2026 16:13:02 +0700</pubDate>
             <sparkle:version>3301</sparkle:version>
