@@ -6,6 +6,15 @@
         <description>VB工具箱版本更新列表</description>
         <language>zh-cn</language>
         <item>
+            <title>0.3.310</title>
+            <pubDate>Wed, 18 Nov 2026 15:43:27 +0700</pubDate>
+            <sparkle:version>3310</sparkle:version>
+            <sparkle:shortVersionString>0.3.310</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h3>0.3.310 · 内部测试</h3><ul><li>空间清理「待删除文件夹」页：窗口调到 1200×760 这类中等大小时，四栏最窄加起来比窗口宽，最右边的详情栏被窗口切掉一半、字只露出一半。现在放不下就先收起「下一层」那一栏，再放不下收起详情栏，留下的每一栏都完整显示；窗口拉宽自动回来。</li></ul>]]></description>
+            <enclosure url="https://cdn.jsdelivr.net/gh/Vangu9981/vb-dist@v0.3.310/VBToolbox-0.3.310-universal-internal.dmg" sparkle:edSignature="/E3vkZxL9HuCSde2dm7HfH8zgn4QUhpkEE4HOjgLku3TiAw3BSZYcRSWX7c16/uIEL5IghGQINxHHJro97tTBg==" length="19237297" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>0.3.309</title>
             <pubDate>Wed, 18 Nov 2026 14:52:37 +0700</pubDate>
             <sparkle:version>3309</sparkle:version>
