@@ -6,6 +6,15 @@
         <description>VB工具箱版本更新列表</description>
         <language>zh-cn</language>
         <item>
+            <title>0.3.309</title>
+            <pubDate>Wed, 18 Nov 2026 14:52:37 +0700</pubDate>
+            <sparkle:version>3309</sparkle:version>
+            <sparkle:shortVersionString>0.3.309</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h3>0.3.309 · 内部测试</h3><ul><li>启动时「开机自动打开」提示框开着时，菜单「退出」、⌘Q、系统发来的退出都没反应。原因是窗口上挂着提示框时系统直接不理退出，0.3.305 加在退出前的收框代码根本没被叫到。现在菜单「退出」和系统发来的退出都先收掉提示框再退（正在删除时照旧不退）。</li><li>没有「完全磁盘访问权限」时，「待删除文件夹」页左边列表和右边详情还写废纸篓「0 KB」「0 个文件」（中间那栏 0.3.306 已改对）。现在这两处也写「读不到」。</li></ul>]]></description>
+            <enclosure url="https://cdn.jsdelivr.net/gh/Vangu9981/vb-dist@v0.3.309/VBToolbox-0.3.309-universal-internal.dmg" sparkle:edSignature="05772CsFePmMtxJyPPbvA/A6uVSavAECnE/UAjzrCNSdQ3kNmR9wy0TAroSwLGp2lkgPj04gl/3t8nLFsSZUBg==" length="19231733" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>0.3.307</title>
             <pubDate>Wed, 18 Nov 2026 13:18:33 +0700</pubDate>
             <sparkle:version>3307</sparkle:version>
