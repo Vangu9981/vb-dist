@@ -6,6 +6,15 @@
         <description>VB工具箱版本更新列表</description>
         <language>zh-cn</language>
         <item>
+            <title>0.3.333</title>
+            <pubDate>Fri, 20 Nov 2026 01:22:36 +0700</pubDate>
+            <sparkle:version>3333</sparkle:version>
+            <sparkle:shortVersionString>0.3.333</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h3>0.3.333 · 内部测试</h3><ul><li>底栏中间「共享池｜消息｜使用说明｜升级与下载」压住两边的按钮（模块关闭小叉、「异常」），而且换页前后两种排法：每格留足边距，宽度定死、哪页都一样。</li><li>搜索页「正在更新…」时「删除」「彻底删除」「一键清除」是灰的、点了没反应：现在照样能点，点了先停下更新再删。</li><li>硬盘不到 50 GB 的通知每打开一次软件就再弹一遍：通知过的盘记在本机，重开软件不再弹；一直不够的 12 小时再提醒一次。</li><li>搜到一半点「停止」：右上写「几点几分 停止」，这次停止前新找到的也加进来，跟上一次的一起列。</li><li>勾选框右边多出「勾选…」的灰字：不再显示（只给读屏用）。</li><li>最小窗口（1061 宽）时搜索页详情栏、选择文件夹页「添加到待删除文件夹」、待删除文件夹页「彻底删除」超出窗口：收窄，都放得下。</li><li>选择文件夹页点进另一个文件夹（比如一块磁盘映像），大小一直「计算中…」：原来要等前一个文件夹几百个子文件夹数完；现在只数眼前这个文件夹的。</li><li>搜完的整份结果（连每一项在盘上的身份）存在本机；软件一打开就拿出来，搜索页一点开就有、能勾能删，不用先搜。</li><li>切到搜索页时后台补查变化（只看变过的地方，几秒），这时页面照样是上一次那份，能勾能删、不变灰、不空白；补查完自己换成新的，勾好的跟着带过去。</li><li>后台正在补查时点删除：先叫停补查再删，不再说「正在忙」。</li><li>删之前照样逐项再核对：存下来以后变过的（换了、改了、没了）不动。</li><li>搜索页第二栏（分类）不再放勾：原来只有建议算好以后才出现，有时有、有时没有。勾在中间的表里一项项勾，或点「一键清除」。</li></ul>]]></description>
+            <enclosure url="https://cdn.jsdelivr.net/gh/Vangu9981/vb-dist@v0.3.333/VBToolbox-0.3.333-universal-internal.dmg" sparkle:edSignature="Dy78ePoCc78TKrgFSym2OYsC67GbPy0agEGNmI8kBfPifsOmffvYMPYg5sBX5FgyRL+Lbzs/KKPx8nIagt5JBw==" length="19734461" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>0.3.332</title>
             <pubDate>Thu, 19 Nov 2026 20:57:53 +0700</pubDate>
             <sparkle:version>3332</sparkle:version>
