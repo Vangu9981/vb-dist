@@ -6,6 +6,15 @@
         <description>VB工具箱版本更新列表</description>
         <language>zh-cn</language>
         <item>
+            <title>0.3.336</title>
+            <pubDate>Fri, 20 Nov 2026 06:11:09 +0700</pubDate>
+            <sparkle:version>3336</sparkle:version>
+            <sparkle:shortVersionString>0.3.336</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h3>0.3.336 · 内部测试</h3><ul><li>搜索页「位置」栏：窗口缩到最小再放大，偶尔停在最窄、字被截成「280.…」「M2 UD9（…」（9 次里 1 次）。现在放不下就换行（盘名最多 3 行，项数和大小分两行），多窄都不截字，最小窗口时也一样。</li></ul>]]></description>
+            <enclosure url="https://cdn.jsdelivr.net/gh/Vangu9981/vb-dist@v0.3.336/VBToolbox-0.3.336-universal-internal.dmg" sparkle:edSignature="CEPrfIeJGtXQh48KA1T/JYkjVfloSfIqd7yeruW13KcK9yN7WSZre61Wwo5fkpWsGlQ4n8na5fvQuAkyFPDSDw==" length="19704434" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>0.3.335</title>
             <pubDate>Fri, 20 Nov 2026 04:23:07 +0700</pubDate>
             <sparkle:version>3335</sparkle:version>
