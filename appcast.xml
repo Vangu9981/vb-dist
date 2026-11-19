@@ -6,6 +6,15 @@
         <description>VB工具箱版本更新列表</description>
         <language>zh-cn</language>
         <item>
+            <title>0.3.332</title>
+            <pubDate>Thu, 19 Nov 2026 20:57:53 +0700</pubDate>
+            <sparkle:version>3332</sparkle:version>
+            <sparkle:shortVersionString>0.3.332</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h3>0.3.332 · 内部测试</h3><ul><li>搜完的整份结果（连每一项在盘上的身份）存在本机；软件一打开就拿出来，搜索页一点开就有、能勾能删，不用先搜。</li><li>切到搜索页时后台补查变化（只看变过的地方，几秒），这时页面照样是上一次那份，能勾能删、不变灰、不空白；补查完自己换成新的，勾好的跟着带过去。</li><li>后台正在补查时点删除：先叫停补查再删，不再说「正在忙」。</li><li>删之前照样逐项再核对：存下来以后变过的（换了、改了、没了）不动。</li><li>搜索页第二栏（分类）不再放勾：原来只有建议算好以后才出现，有时有、有时没有。勾在中间的表里一项项勾，或点「一键清除」。</li><li>中间表的「勾选」一栏一直有勾：正在更新、建议还没算好时原来这一格是空的（看不到勾、删不了），现在是淡的勾、鼠标停上去写「正在更新结果，搜完、建议算好就能勾」，排版不再两个样。</li><li>空间清理「搜索」页、「待删除文件夹」页的勾选框：没勾时白底、深灰粗边（原来浅灰底浅灰边，表格里几乎看不出来）；勾上蓝底白勾；不能勾的（「不能删」）变淡。</li><li>搜索页分类栏顶上「建议删除｜谨慎删除」在各种窗口宽度下都被两边栏切掉一截：分类栏最窄加宽到放得下这两格。</li><li>底栏中间那组按钮（共享池、消息、使用说明、升级与下载）每格被撑到 177 点宽，开 5 个模块时 1250、1368 宽的窗口右边「异常」「设置」跑到外面要滑动才看得到：改成按每格的字算宽度。</li><li>页面先摆着上一次的结果时点「停止」，上一次列着的一下全不见了，右上还写「搜完」：现在这次没搜到的地方照上一次的列（此刻还在的才列），右上写「几点几分 停止」；停在半路的结果不再存下来盖掉上一次完整的。</li><li>搜索中途点「停止」：本机那块盘还没走完就停，停止前页面上已经列出的大文件（那次 18 个、29.66 GB）停了反而不见了。现在边搜边列出来的，停了照样在结果里，能勾能删。</li><li>后台预搜跑满 30 分钟没做完时，原来量好的大小一律不存，下一轮又从头量，永远做不完（测试机开了完全磁盘访问权限、个人文件夹 137 万项时一次都没做完）。现在到时限、被打断也把量完了的存下来，下一轮接着量。</li></ul>]]></description>
+            <enclosure url="https://cdn.jsdelivr.net/gh/Vangu9981/vb-dist@v0.3.332/VBToolbox-0.3.332-universal-internal.dmg" sparkle:edSignature="yHhgCZXPW80oUgKHcZXYcUqRdzqdoA5XtFA4REQmgOybioR/IFvJBWUOFBBJV1rczMDMwQriQWDQrOC2bhAcBw==" length="19711561" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>0.3.329</title>
             <pubDate>Thu, 19 Nov 2026 20:42:30 +0700</pubDate>
             <sparkle:version>3329</sparkle:version>
