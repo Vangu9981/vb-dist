@@ -6,6 +6,15 @@
         <description>VB工具箱版本更新列表</description>
         <language>zh-cn</language>
         <item>
+            <title>0.3.335</title>
+            <pubDate>Fri, 20 Nov 2026 04:23:07 +0700</pubDate>
+            <sparkle:version>3335</sparkle:version>
+            <sparkle:shortVersionString>0.3.335</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h3>0.3.335 · 内部测试</h3><ul><li>搜索页：双备份目标正下方「待删除」「实时镜像-待删除」里的东西（备份换下来的旧版本）改成「要你看一眼」，能勾、能删（照旧先确认、再认证，进废纸篓）。只认这两处：备份里别处叫「待删除」的（源里本来就有、备份时复制过来的）仍算正在用的备份。</li><li>双备份正在用的备份副本仍然不能删，不再放进「谨慎删除」，单独一组「备份里的（不能删）」，每行写着原因；这一组没有东西时不显示。</li><li>「建议删除」「谨慎删除」的数字只算能勾的。</li><li>删除时再拦一道：备份盘上的只放行双备份「待删除」里的旧版本，正在用的备份就算被勾上也不动。时间机器盘照旧不搜、不清。</li></ul>]]></description>
+            <enclosure url="https://cdn.jsdelivr.net/gh/Vangu9981/vb-dist@v0.3.335/VBToolbox-0.3.335-universal-internal.dmg" sparkle:edSignature="zgMo4iR3mavdpA668gv5fDnJZFeforefDd27uahkoodbrNYEPWjWewBOWioifgUsX0obCdYq43R04rHTmav8Dw==" length="19716474" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>0.3.333</title>
             <pubDate>Fri, 20 Nov 2026 01:22:36 +0700</pubDate>
             <sparkle:version>3333</sparkle:version>
