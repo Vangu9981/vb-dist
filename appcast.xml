@@ -6,6 +6,15 @@
         <description>VB工具箱版本更新列表</description>
         <language>zh-cn</language>
         <item>
+            <title>0.3.322</title>
+            <pubDate>Thu, 19 Nov 2026 14:25:37 +0700</pubDate>
+            <sparkle:version>3322</sparkle:version>
+            <sparkle:shortVersionString>0.3.322</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h3>0.3.322 · 内部测试</h3><ul><li>窗口最底下的底栏永远只排一行：启动台和打开着的模块、分区、提醒和设置从左往右挨着排，不再换成两行；窗口窄到真放不下时左右滑动看，不裁按钮。</li><li>原来换两行是算错了宽度：先问每段「想要多宽」再决定排一行还是两行，中间那组分区按钮报的宽度比实际大一倍，1450 宽的窗口也被判成放不下。</li><li>「拟删除」「待删除」文件夹原来只在个人文件夹、下载文件夹、移动硬盘最上面一层找；AI 工作目录里每个项目自己的 待删除/（测试、改版挪进去的东西）埋在几层下面，一个都没搜到。现在个人文件夹（不含资源库、桌面）和移动硬盘里任何一层的都找，整个文件夹算一项，默认不勾、要你看一眼。「旧版本」可能是自己留的文档旧稿，仍只在最上面一层找。</li><li>搜索到 10 分钟时限（多半卡在读很大的备份盘）时，原来已经认出来的东西整个作废，页面上什么都没有；现在再给 60 秒把已认出来的量完、列出来，标「超时没搜完」。</li><li>第一次打开新版搜索时，索引要整块重建一次（多认了「待删除」这一项），会比平时慢一次。</li><li>以前点「搜索」要等本机和每块移动硬盘（含备份盘）全部走完，才开始一项项量大小、往页面上列；连缓存、下载里的安装包这些不用走盘的也排在后面。最慢的那块移动硬盘决定了什么时候看得到结果。</li><li>现在：缓存、安装包这几类跟走盘同时找，找到就列；哪块盘先走完先列哪块的，不等最慢的那块；走盘时碰到够大的文件当场先列出来。查重、旧的 VB工具箱 副本要几块盘一起比，仍在最后出。</li><li>后台预搜不变（单线、最低优先级）。</li><li>后台预搜读完文件夹以后，拿带中文的路径一条条比对时用的是 Swift 默认的字符串比法（每比一次都先做 Unicode 规范化），每去掉一个文件夹还整本索引重算一遍。改成按路径原样的字节比，只挑出要去掉的几条，不整本重算；增量重读每一层也像整块走一样歇一歇。</li><li>后台预搜量文件夹大小也改成单线、最低优先级（d6f6a77）。</li><li>窗口最底下的底栏放回来了（启动台、打开着的模块、分区、提醒、设置），贯穿整个窗口宽度，跟 11-16 以前一样；窗口窄时换成两行，再窄横向滚动，不裁按钮。顶上工具栏不再重复放这一套。（0.3.309 起底栏被挪到了顶上工具栏，窗口最底下空了一条、打开着的模块看不到；0.3.313 只修了顶上那排，没把底栏放回去。）</li><li>局域网共享盘「我的共享」每块盘的「可用」、备份前查目标盘够不够，跟访达、系统设置用同一种算法（算上系统随时能腾出来的缓存、临时快照等），不再把还宽裕的盘说成快满了。</li></ul>]]></description>
+            <enclosure url="https://cdn.jsdelivr.net/gh/Vangu9981/vb-dist@v0.3.322/VBToolbox-0.3.322-universal-internal.dmg" sparkle:edSignature="VqecCrRcdixDIw1kAbSxvlFxOymL8VsyhHMsyb9WRZDTpAOyE5BskdLDGf435X7WwxB0Wms4lIT4s4ZS92mSBg==" length="19516955" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>0.3.321</title>
             <pubDate>Thu, 19 Nov 2026 13:48:46 +0700</pubDate>
             <sparkle:version>3321</sparkle:version>
