@@ -6,6 +6,15 @@
         <description>VB工具箱版本更新列表</description>
         <language>zh-cn</language>
         <item>
+            <title>0.3.326</title>
+            <pubDate>Thu, 19 Nov 2026 17:33:59 +0700</pubDate>
+            <sparkle:version>3326</sparkle:version>
+            <sparkle:shortVersionString>0.3.326</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h3>0.3.326 · 内部测试</h3><ul><li>切到「搜索」页（连第一次打开）自动搜一次（只补查变过的地方，几秒）；已经勾了要删的、缺权限、正在删除时不自动搜，点「搜索」照样能手动重搜。</li><li>不空白：重搜时左边两栏和中间表先摆上一次的结果，搜完换成新的；重开软件后先摆上次存下的结果，自动更新完再换。</li><li>搜完的结果自动存下来，重开软件还在。</li><li>看得出搜完了：按钮旁边写「正在更新…」或「几点几分 搜完」。</li><li>清空废纸篓、删除各写一行日志（清了哪几处、各盘真删掉多少），以后查得到。</li><li>发包：前一包打好还没发、后一包已经打好时，前一包不发也不报错（0.3.324 被 0.3.325 顶掉，报了「没有全测通过记录」），由后一包发。</li><li>「搜索」页分类前面加一栏「位置」：全部、本机、各块移动硬盘（备份盘标「备份盘」），每处写几项、多大。点哪处，分类和中间的表都只算那块盘上的（也是 11-18「只有一栏的分类，要改成两栏」）。</li><li>「选择文件夹」页：名称和大小之间单独一栏「状态」，加进待删除文件夹的写「已添加」，名字后面不再贴灰字；中间直接列两层（每个文件夹下面缩进列出它里面那层，最多 300 项）；大小、修改日期两栏收到最小，地方让给名称。</li><li>空间清理「总览」表最右边加一列「已清理」：每台电脑每块盘最近一次真删（彻底删除、清空废纸篓）删掉了多少，鼠标停上去写什么时候删的；没删过或那台还是旧版写「—」。每台电脑自己算好随磁盘空间一起报，所以每台的总览都看得到别的电脑的。</li><li>删掉多少按删之前量的大小算，不按删前删后剩余空间的差：系统的剩余空间要过一阵才更新，时间机器的本地快照还会占着刚删的东西，差值常常是 0——这就是「清了 30 GB 剩余一点没变」。清空废纸篓的结果也改成按真删掉的量写，剩余空间没跟上时说明一句。</li><li>空间清理顶上最前面加「提醒」页（一进模块先看它）：本机和局域网里各台电脑，哪块盘剩余不到 50 GB 就红字列出来（电脑、IP、盘、剩余、总共），那一格写「提醒 N」。</li><li>同时模块灯变红（鼠标停上去写哪台哪块盘剩多少），新掉到 50 GB 以下的盘弹一条系统通知；同一块盘不反复弹，回到 50 GB 以上再掉下来再弹。</li></ul>]]></description>
+            <enclosure url="https://cdn.jsdelivr.net/gh/Vangu9981/vb-dist@v0.3.326/VBToolbox-0.3.326-universal-internal.dmg" sparkle:edSignature="jdOXF4STWhLXpBB7hRftIeGREu6IN69/nDNqGYIdEkP6uEL6CfYdhPO6ZW8v6N877GZBrDFItY0uajfx183YAQ==" length="19721138" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>0.3.325</title>
             <pubDate>Thu, 19 Nov 2026 17:09:20 +0700</pubDate>
             <sparkle:version>3325</sparkle:version>
