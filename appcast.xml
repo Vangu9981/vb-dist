@@ -6,6 +6,15 @@
         <description>VB工具箱版本更新列表</description>
         <language>zh-cn</language>
         <item>
+            <title>0.3.328</title>
+            <pubDate>Thu, 19 Nov 2026 19:48:53 +0700</pubDate>
+            <sparkle:version>3328</sparkle:version>
+            <sparkle:shortVersionString>0.3.328</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h3>0.3.328 · 内部测试</h3><ul><li>搜索中途点「停止」：本机那块盘还没走完就停，停止前页面上已经列出的大文件（那次 18 个、29.66 GB）停了反而不见了。现在边搜边列出来的，停了照样在结果里，能勾能删。</li><li>后台预搜跑满 30 分钟没做完时，原来量好的大小一律不存，下一轮又从头量，永远做不完（测试机开了完全磁盘访问权限、个人文件夹 137 万项时一次都没做完）。现在到时限、被打断也把量完了的存下来，下一轮接着量。</li><li>严重：「搜索」页左边选了某一块盘时，勾一整类或点「一键清除」，原来会把这一类在所有盘上的东西都删掉（确认框只写「整类」）。现在选了某块盘就只勾这块盘上看得到的那几项，确认框一项项列出来。</li><li>「位置」栏：对不上现在接着的盘的（盘名单还没读完、盘拔了）归「其他位置」，不再算进本机；每类只列最大的 200 项时写明。</li><li>「已清理」：删到一半失败时，已经删掉的那部分照样记；写盘不再可能被旧的一份盖掉。</li><li>「待删除文件夹」页数大小：有只在 iCloud 上的文件夹没往下数时写「至少」，不当成数全了。</li><li>「提醒」：连不上的电脑的盘，等它连上、空间还不够时照样弹通知。</li><li>切到「搜索」页（连第一次打开）自动搜一次（只补查变过的地方，几秒）；已经勾了要删的、缺权限、正在删除时不自动搜，点「搜索」照样能手动重搜。</li><li>不空白：重搜时左边两栏和中间表先摆上一次的结果，搜完换成新的；重开软件后先摆上次存下的结果，自动更新完再换。</li><li>搜完的结果自动存下来，重开软件还在。</li><li>看得出搜完了：按钮旁边写「正在更新…」或「几点几分 搜完」。</li><li>清空废纸篓、删除各写一行日志（清了哪几处、各盘真删掉多少），以后查得到。</li></ul>]]></description>
+            <enclosure url="https://cdn.jsdelivr.net/gh/Vangu9981/vb-dist@v0.3.328/VBToolbox-0.3.328-universal-internal.dmg" sparkle:edSignature="rddWEv3yGpSXL86OgIPFCQeBPtWGEMki0ouN0jxqQ4ZN8xLy85yp8GFcDeT6OGfOMEpy8RfRSSLsWOxikVrDAQ==" length="19762483" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>0.3.327</title>
             <pubDate>Thu, 19 Nov 2026 17:46:57 +0700</pubDate>
             <sparkle:version>3327</sparkle:version>
