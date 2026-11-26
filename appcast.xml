@@ -6,6 +6,15 @@
         <description>VB工具箱版本更新列表</description>
         <language>zh-cn</language>
         <item>
+            <title>0.3.355</title>
+            <pubDate>Fri, 27 Nov 2026 05:38:59 +0700</pubDate>
+            <sparkle:version>3355</sparkle:version>
+            <sparkle:shortVersionString>0.3.355</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h3>0.3.355 · 内部测试</h3>]]></description>
+            <enclosure url="https://cdn.jsdelivr.net/gh/Vangu9981/vb-dist@v0.3.355/VBToolbox-0.3.355-universal-internal.dmg" sparkle:edSignature="SAwugaTeayYmzTxP7mG1Nhu2Ku61jnba0G5PoUOvlMze3evq2Kz6UUhoQcwF1cPi1XuWpiP8hifANLbsfUs9Cg==" length="19346004" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>0.3.353</title>
             <pubDate>Thu, 26 Nov 2026 15:47:58 +0700</pubDate>
             <sparkle:version>3353</sparkle:version>
